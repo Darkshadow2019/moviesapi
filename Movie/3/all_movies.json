@@ -48,6 +48,30 @@
                 "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210427/affb7f84d3354f9.mp4",
                 "imageUrl": "https://heraldjournalism.com/wp-content/uploads/2020/11/fffq.jpg"
                 
+            },
+             {
+        "categoryId" : "3",
+        "categoryTitle": "Loki",
+        "categoryItemList":
+        [
+            {
+                "id":"1",
+                "movieName": "Loki Ep-1",
+                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210610/92bb3ab5d9d9437.mp4",
+                "imageUrl": "https://images.indianexpress.com/2021/06/loki-1200-3.jpg"
+            },
+             {
+                "id": "2",
+                "movieName": "Loki Ep-2",
+                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210616/401b1c5713f5400.mp4",
+                "imageUrl": "https://www.cgmagonline.com/wp-content/uploads/2021/06/news-loki-episode-1-2-review-3-1280x720.jpg"
+            },
+            {
+                "id": "3",
+                "movieName": "Loki Ep-3",
+                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210623/c3d301023fae4ff.mp4",
+                "imageUrl": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a8/The_Nexus_Event.jpg"
+                
             }
         ]
     }
