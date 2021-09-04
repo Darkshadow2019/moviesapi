@@ -1,80 +1,74 @@
 [
-    {
-        "categoryId" : "1",
-        "categoryTitle": "It's Okay to Not be Okay(2020)",
-        "categoryItemList":
-        [
-            {
-                "id":"1",
-                "movieName": "It's Okay to Not be Okay Ep1-6",
-                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210428/f60218df643c454.mp4",
-                "imageUrl": "https://6.viki.io/image/27ea0a4acfbd47ecac46321769b6ba3c.jpeg"
-            },
-             {
-                "id": "2",
-                "movieName": "It's Okay to Not be Okay Ep7-11",
-                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210428/ecdb40ad0cfa44c.mp4",
-                "imageUrl": "https://6.viki.io/image/a9a9c2994e7f407596b151c833da1699.jpeg"
-            },
-            {
-                "id": "3",
-                "movieName": "It's Okay to Not be Okay Ep12-16",
-                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210531/4ea3c7b4fa6d4f1.mp4",
-                "imageUrl": "https://i2.wp.com/the-art-of-autism.com/wp-content/uploads/2020/11/Itsokay.jpg"
-                
-            }
-        ]
-    },
-    {
-        "categoryId" : "2",
-        "categoryTitle": "Tail of the Nine Tailed(2020)",
-        "categoryItemList":
-        [
-            {
-                "id":"1",
-                "movieName": "Tail of the Nine Tailed Ep(1-6)",
-                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210427/a59116fcceb34f7.mp4",
-                "imageUrl": "https://heraldjournalism.com/wp-content/uploads/2020/11/fffq.jpg"
-            },
-             {
-                "id": "2",
-                "movieName": "Tail of the Nine Tailed Ep(7-12)",
-                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210427/fbff35fa63cb455.mp4",
-                "imageUrl": "https://heraldjournalism.com/wp-content/uploads/2020/11/fffq.jpg"
-            },
-            {
-                "id": "3",
-                "movieName": "Tail of the Nine Tailed Ep(13-16)",
-                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210427/affb7f84d3354f9.mp4",
-                "imageUrl": "https://heraldjournalism.com/wp-content/uploads/2020/11/fffq.jpg"
-                
-            },
-             {
-        "categoryId" : "3",
-        "categoryTitle": "Loki",
-        "categoryItemList":
-        [
-            {
-                "id":"1",
-                "movieName": "Loki Ep-1",
-                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210610/92bb3ab5d9d9437.mp4",
-                "imageUrl": "https://images.indianexpress.com/2021/06/loki-1200-3.jpg"
-            },
-             {
-                "id": "2",
-                "movieName": "Loki Ep-2",
-                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210616/401b1c5713f5400.mp4",
-                "imageUrl": "https://www.cgmagonline.com/wp-content/uploads/2021/06/news-loki-episode-1-2-review-3-1280x720.jpg"
-            },
-            {
-                "id": "3",
-                "movieName": "Loki Ep-3",
-                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210623/c3d301023fae4ff.mp4",
-                "imageUrl": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a8/The_Nexus_Event.jpg"
-                
-            }
-        ]
-    }
-    
-    
+  {
+    "categoryId": "1",
+    "categoryTitle": "It's Okay to Not be Okay(2020)",
+    "categoryItemList": [
+      {
+        "id": "1",
+        "movieName": "It's Okay to Not be Okay Ep1-6",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210428/f60218df643c454.mp4",
+        "imageUrl": "https://6.viki.io/image/27ea0a4acfbd47ecac46321769b6ba3c.jpeg"
+      },
+      {
+        "id": "2",
+        "movieName": "It's Okay to Not be Okay Ep7-11",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210428/ecdb40ad0cfa44c.mp4",
+        "imageUrl": "https://6.viki.io/image/a9a9c2994e7f407596b151c833da1699.jpeg"
+      },
+      {
+        "id": "3",
+        "movieName": "It's Okay to Not be Okay Ep12-16",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210531/4ea3c7b4fa6d4f1.mp4",
+        "imageUrl": "https://i2.wp.com/the-art-of-autism.com/wp-content/uploads/2020/11/Itsokay.jpg"
+      }
+    ]
+  },
+  {
+    "categoryId": "2",
+    "categoryTitle": "Tail of the Nine Tailed(2020)",
+    "categoryItemList": [
+      {
+        "id": "1",
+        "movieName": "Tail of the Nine Tailed Ep(1-6)",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210427/a59116fcceb34f7.mp4",
+        "imageUrl": "https://heraldjournalism.com/wp-content/uploads/2020/11/fffq.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Tail of the Nine Tailed Ep(7-12)",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210427/fbff35fa63cb455.mp4",
+        "imageUrl": "https://heraldjournalism.com/wp-content/uploads/2020/11/fffq.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Tail of the Nine Tailed Ep(13-16)",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210427/affb7f84d3354f9.mp4",
+        "imageUrl": "https://heraldjournalism.com/wp-content/uploads/2020/11/fffq.jpg"
+      }
+    ]
+  },
+  {
+    "categoryId": "3",
+    "categoryTitle": "Loki",
+    "categoryItemList": [
+      {
+        "id": "1",
+        "movieName": "Loki Ep-1",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210610/92bb3ab5d9d9437.mp4",
+        "imageUrl": "https://images.indianexpress.com/2021/06/loki-1200-3.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Loki Ep-2",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210616/401b1c5713f5400.mp4",
+        "imageUrl": "https://www.cgmagonline.com/wp-content/uploads/2021/06/news-loki-episode-1-2-review-3-1280x720.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Loki Ep-3",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210623/c3d301023fae4ff.mp4",
+        "imageUrl": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a8/The_Nexus_Event.jpg"
+      }
+    ]
+  }
 ]
