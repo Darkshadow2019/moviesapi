@@ -24,6 +24,33 @@
                 
             }
         ]
+    },
+    {
+        "categoryId" : "2",
+        "categoryTitle": "Tail of the Nine Tailed(2020)",
+        "categoryItemList":
+        [
+            {
+                "id":"1",
+                "movieName": "Tail of the Nine Tailed Ep(1-6)",
+                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210427/a59116fcceb34f7.mp4",
+                "imageUrl": "https://heraldjournalism.com/wp-content/uploads/2020/11/fffq.jpg"
+            },
+             {
+                "id": "2",
+                "movieName": "Tail of the Nine Tailed Ep(7-12)",
+                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210427/fbff35fa63cb455.mp4",
+                "imageUrl": "https://heraldjournalism.com/wp-content/uploads/2020/11/fffq.jpg"
+            },
+            {
+                "id": "3",
+                "movieName": "Tail of the Nine Tailed Ep(13-16)",
+                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210427/affb7f84d3354f9.mp4",
+                "imageUrl": "https://heraldjournalism.com/wp-content/uploads/2020/11/fffq.jpg"
+                
+            }
+        ]
     }
+    
     
 ]
