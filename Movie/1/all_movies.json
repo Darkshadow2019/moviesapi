@@ -1,7 +1,7 @@
 [
     {
         "categoryId" : "1",
-        "categoryTitle": "All movies",
+        "categoryTitle": "Action Movies",
         "categoryItemList":
         [
             {
@@ -20,7 +20,100 @@
                 "id": "3",
                 "movieName": "Ghost Rider : Spirits of Vengeance(2012)",
                 "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210531/4ea3c7b4fa6d4f1.mp4",
-                "imageUrl": "https://lh3.googleusercontent.com/proxy/a91eYNfg_vxER-zhQj2oLINtzwib5o2WEnm80r2D4EpdbUQbMKfwgyba6neLf5DHaysQR9ENRTQWf54U7g5DA-jB4GKpH1amRgce1Magz7hT3A_l6gthLtQGLHIwX5NnW4GqVMEw"
+                "imageUrl": "https://github.com/Darkshadow2019/moviesapi/blob/main/Movie/imgs/freedvdcover_ghost-rider-spirit-of-vengeance-2012.jpg"
+                
+            },
+            {
+                "id": "4",
+                "movieName": "The Martin(2015 full sub)",
+                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210611/636e5aff265442d.mp4",
+                "imageUrl": "https://github.com/Darkshadow2019/moviesapi/blob/main/Movie/imgs/the_martian2015.jpg"
+                
+            },
+               {
+                "id": "5",
+                "movieName": "Focus(2015)",
+                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210424/167fdee08f6f424.mp4",
+                "imageUrl": "https://github.com/Darkshadow2019/moviesapi/blob/main/Movie/imgs/Focus2015.png"
+                
+            }
+        ]
+    },
+    {
+        "categoryId" : "2",
+        "categoryTitle": "Korea Movies",
+        "categoryItemList":
+        [
+            {
+                "id":"1",
+                "movieName": "Warth of man (2021)",
+                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210527/5c5788119929483.mp4",
+                "imageUrl": "https://www.freshers-live.com/wp-content/uploads/2021/05/WRATH-OF-MAN-2021-compressed.jpg"
+            },
+             {
+                "id": "2",
+                "movieName": "Army of the Death(2021)",
+                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210531/10f91c3b229f4a4.mp4",
+                "imageUrl": "https://images.wallpapersden.com/image/download/army-of-the-dead-2021_bGtuaWqUmZqaraWkpJRnZWdprWZmaG4.jpg"
+            },
+            {
+                "id": "3",
+                "movieName": "Ghost Rider : Spirits of Vengeance(2012)",
+                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210531/4ea3c7b4fa6d4f1.mp4",
+                "imageUrl": "https://github.com/Darkshadow2019/moviesapi/blob/main/Movie/imgs/freedvdcover_ghost-rider-spirit-of-vengeance-2012.jpg"
+                
+            }
+        ]
+    },
+    {
+        "categoryId" : "3",
+        "categoryTitle": "Bollywood",
+        "categoryItemList":
+        [
+            {
+                "id":"1",
+                "movieName": "Warth of man (2021)",
+                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210527/5c5788119929483.mp4",
+                "imageUrl": "https://www.freshers-live.com/wp-content/uploads/2021/05/WRATH-OF-MAN-2021-compressed.jpg"
+            },
+             {
+                "id": "2",
+                "movieName": "Army of the Death(2021)",
+                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210531/10f91c3b229f4a4.mp4",
+                "imageUrl": "https://images.wallpapersden.com/image/download/army-of-the-dead-2021_bGtuaWqUmZqaraWkpJRnZWdprWZmaG4.jpg"
+            },
+            {
+                "id": "3",
+                "movieName": "Ghost Rider : Spirits of Vengeance(2012)",
+                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210531/4ea3c7b4fa6d4f1.mp4",
+                "imageUrl": "https://github.com/Darkshadow2019/moviesapi/blob/main/Movie/imgs/freedvdcover_ghost-rider-spirit-of-vengeance-2012.jpg"
+                
+            }
+        ]
+    }
+    ,
+    {
+        "categoryId" : "4",
+        "categoryTitle": "",
+        "categoryItemList":
+        [
+            {
+                "id":"1",
+                "movieName": "Warth of man (2021)",
+                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210527/5c5788119929483.mp4",
+                "imageUrl": "https://www.freshers-live.com/wp-content/uploads/2021/05/WRATH-OF-MAN-2021-compressed.jpg"
+            },
+             {
+                "id": "2",
+                "movieName": "Army of the Death(2021)",
+                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210531/10f91c3b229f4a4.mp4",
+                "imageUrl": "https://images.wallpapersden.com/image/download/army-of-the-dead-2021_bGtuaWqUmZqaraWkpJRnZWdprWZmaG4.jpg"
+            },
+            {
+                "id": "3",
+                "movieName": "Ghost Rider : Spirits of Vengeance(2012)",
+                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210531/4ea3c7b4fa6d4f1.mp4",
+                "imageUrl": "https://github.com/Darkshadow2019/moviesapi/blob/main/Movie/imgs/freedvdcover_ghost-rider-spirit-of-vengeance-2012.jpg"
                 
             }
         ]
