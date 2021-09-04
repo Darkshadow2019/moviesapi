@@ -1,26 +1,26 @@
 [
     {
         "categoryId" : "1",
-        "categoryTitle": "All movies",
+        "categoryTitle": "It's Okay to Not be Okay(2020)",
         "categoryItemList":
         [
             {
                 "id":"1",
-                "movieName": "Warth of man (2021)",
-                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210527/5c5788119929483.mp4",
-                "imageUrl": "https://www.freshers-live.com/wp-content/uploads/2021/05/WRATH-OF-MAN-2021-compressed.jpg"
+                "movieName": "It's Okay to Not be Okay Ep1-6",
+                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210428/f60218df643c454.mp4",
+                "imageUrl": "http://www.kdramalove.com/galleries/Its-Okay-not-to-be-okay.jpg"
             },
              {
                 "id": "2",
-                "movieName": "Army of the Death(2021)",
-                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210531/10f91c3b229f4a4.mp4",
-                "imageUrl": "https://images.wallpapersden.com/image/download/army-of-the-dead-2021_bGtuaWqUmZqaraWkpJRnZWdprWZmaG4.jpg"
+                "movieName": "It's Okay to Not be Okay Ep7-11",
+                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210428/ecdb40ad0cfa44c.mp4",
+                "imageUrl": "https://thenewsvoice.com/wp-content/uploads/2021/06/Its-Okay-not-to-be-okay-review4-3.jpg"
             },
             {
                 "id": "3",
-                "movieName": "Ghost Rider : Spirits of Vengeance(2012)",
+                "movieName": "It's Okay to Not be Okay Ep12-16",
                 "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210531/4ea3c7b4fa6d4f1.mp4",
-                "imageUrl": "https://lh3.googleusercontent.com/proxy/a91eYNfg_vxER-zhQj2oLINtzwib5o2WEnm80r2D4EpdbUQbMKfwgyba6neLf5DHaysQR9ENRTQWf54U7g5DA-jB4GKpH1amRgce1Magz7hT3A_l6gthLtQGLHIwX5NnW4GqVMEw"
+                "imageUrl": "https://i2.wp.com/the-art-of-autism.com/wp-content/uploads/2020/11/Itsokay.jpg"
                 
             }
         ]
