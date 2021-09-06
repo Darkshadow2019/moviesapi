@@ -24,6 +24,35 @@
                 
             }
         ]
+    },
+    [
+    {
+        "categoryId" : "2",
+        "categoryTitle": "Kung Fu Panda",
+        "categoryItemList":
+        [
+            {
+                "id":"1",
+                "movieName": "Kung Fu Panda(2008)",
+                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210517/f66b9f7bf638418.mp4",
+                "imageUrl": "https://dvdcover.com/wp-content/uploads/2016-03-16_56e92f96acdeb_kung_fu_panda_-_version_1-950x638.jpg"
+            },
+             {
+                "id": "2",
+                "movieName": "Kung Fu Panda 2 (2011)",
+                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210517/4101fa0ec43a452.mp4",
+                "imageUrl": "https://pics.filmaffinity.com/Kung_Fu_Panda-200447264-large.jpg"
+            },
+            {
+                "id": "3",
+                "movieName": "Kung Fu Panda 3 (2016)",
+                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210517/e5e134d091c84e6.mp4",
+                "imageUrl": "https://pics.filmaffinity.com/Kung_Fu_Panda-440050184-large.jpg"
+                
+            }
+        ]
     }
+    
+]
     
 ]
