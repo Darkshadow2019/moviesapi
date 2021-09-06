@@ -83,9 +83,9 @@
       },
       {
         "id": "3",
-        "movieName": "Ghost Rider : Spirits of Vengeance(2012)",
-        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210531/4ea3c7b4fa6d4f1.mp4",
-        "imageUrl": "https://github.com/Darkshadow2019/moviesapi/blob/main/Movie/imgs/freedvdcover_ghost-rider-spirit-of-vengeance-2012.jpg"
+        "movieName": "Silenced(2011)",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210607/8a666e23a12a4e9.mp4",
+        "imageUrl": "https://flixwatch.co/wp-content/uploads/70241118.jpg"
       }
     ]
   },
@@ -95,21 +95,15 @@
     "categoryItemList": [
       {
         "id": "1",
-        "movieName": "Warth of man (2021)",
-        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210527/5c5788119929483.mp4",
-        "imageUrl": "https://www.freshers-live.com/wp-content/uploads/2021/05/WRATH-OF-MAN-2021-compressed.jpg"
+        "movieName": "Mosagallu(2021)",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210617/05d92545be40484.mp4",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjRjOWYxMzAtZTRmOC00NWU0LTkxMmUtMGJmNGNjYjNjMTNjXkEyXkFqcGdeQXVyMzU2MDg0MzY@._V1_.jpg"
       },
       {
         "id": "2",
-        "movieName": "Army of the Death(2021)",
-        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210531/10f91c3b229f4a4.mp4",
-        "imageUrl": "https://images.wallpapersden.com/image/download/army-of-the-dead-2021_bGtuaWqUmZqaraWkpJRnZWdprWZmaG4.jpg"
-      },
-      {
-        "id": "3",
-        "movieName": "Ghost Rider : Spirits of Vengeance(2012)",
-        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210531/4ea3c7b4fa6d4f1.mp4",
-        "imageUrl": "https://github.com/Darkshadow2019/moviesapi/blob/main/Movie/imgs/freedvdcover_ghost-rider-spirit-of-vengeance-2012.jpg"
+        "movieName": "Sreekaram(2021)",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210610/8e8fdd76f81548e.mp4",
+        "imageUrl": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/srikaaram-sreekaram-et00106100-10-03-2021-10-19-27.jpg"
       }
     ]
   },
