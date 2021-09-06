@@ -1,58 +1,50 @@
 [
-    {
-        "categoryId" : "1",
-        "categoryTitle": "Katuri Cartoon",
-        "categoryItemList":
-        [
-            {
-                "id":"1",
-                "movieName": "Katuri Cartoon(Episode 1-3)",
-                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210823/c751c1eca4524c0.mp4",
-                "imageUrl": "https://www.gigglegarage.com/wp-content/uploads/2018/02/KA_ENG_PO_02_1080px.jpg"
-            },
-             {
-                "id": "2",
-                "movieName": "Katuri Cartoon(Episode 4-6)",
-                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210824/7bbb330defa94bd.mp4",
-                "imageUrl": "https://www.animationmagazine.net/wordpress/wp-content/uploads/katuri-post1.jpg"
-            },
-            {
-                "id": "3",
-                "movieName": "Katuri Cartoon(Episode 7-9)",
-                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210825/08455a4f2af54ec.mp4",
-                "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/g9a9m-TCQF55NPPQ6-Full-Image_GalleryBackground-en-US-1570732183342._RI_.jpg"
-                
-            }
-        ]
-    },
-    [
-    {
-        "categoryId" : "2",
-        "categoryTitle": "Kung Fu Panda",
-        "categoryItemList":
-        [
-            {
-                "id":"1",
-                "movieName": "Kung Fu Panda(2008)",
-                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210517/f66b9f7bf638418.mp4",
-                "imageUrl": "https://dvdcover.com/wp-content/uploads/2016-03-16_56e92f96acdeb_kung_fu_panda_-_version_1-950x638.jpg"
-            },
-             {
-                "id": "2",
-                "movieName": "Kung Fu Panda 2 (2011)",
-                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210517/4101fa0ec43a452.mp4",
-                "imageUrl": "https://pics.filmaffinity.com/Kung_Fu_Panda-200447264-large.jpg"
-            },
-            {
-                "id": "3",
-                "movieName": "Kung Fu Panda 3 (2016)",
-                "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210517/e5e134d091c84e6.mp4",
-                "imageUrl": "https://pics.filmaffinity.com/Kung_Fu_Panda-440050184-large.jpg"
-                
-            }
-        ]
-    }
-    
-]
-    
+  {
+    "categoryId": "1",
+    "categoryTitle": "Katuri Cartoon",
+    "categoryItemList": [
+      {
+        "id": "1",
+        "movieName": "Katuri Cartoon(Episode 1-3)",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210823/c751c1eca4524c0.mp4",
+        "imageUrl": "https://www.gigglegarage.com/wp-content/uploads/2018/02/KA_ENG_PO_02_1080px.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Katuri Cartoon(Episode 4-6)",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210824/7bbb330defa94bd.mp4",
+        "imageUrl": "https://www.animationmagazine.net/wordpress/wp-content/uploads/katuri-post1.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Katuri Cartoon(Episode 7-9)",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210825/08455a4f2af54ec.mp4",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/g9a9m-TCQF55NPPQ6-Full-Image_GalleryBackground-en-US-1570732183342._RI_.jpg"
+      }
+    ]
+  },
+  {
+    "categoryId": "2",
+    "categoryTitle": "Kung Fu Panda",
+    "categoryItemList": [
+      {
+        "id": "1",
+        "movieName": "Kung Fu Panda(2008)",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210517/f66b9f7bf638418.mp4",
+        "imageUrl": "https://dvdcover.com/wp-content/uploads/2016-03-16_56e92f96acdeb_kung_fu_panda_-_version_1-950x638.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Kung Fu Panda 2 (2011)",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210517/4101fa0ec43a452.mp4",
+        "imageUrl": "https://pics.filmaffinity.com/Kung_Fu_Panda-200447264-large.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Kung Fu Panda 3 (2016)",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210517/e5e134d091c84e6.mp4",
+        "imageUrl": "https://pics.filmaffinity.com/Kung_Fu_Panda-440050184-large.jpg"
+      }
+    ]
+  }
 ]
