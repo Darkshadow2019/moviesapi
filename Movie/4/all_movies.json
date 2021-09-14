@@ -82,5 +82,65 @@
         "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/q8/hk/5s/lu/kung-fu-panda-110-1200-1200-675-675-crop-000000.jpg"
       }
     ]
+  },
+  {
+    "categoryId": "3",
+    "categoryTitle": "Charlie Chaplin",
+    "categoryItemList": [
+      {
+        "id": "1",
+        "movieName": "Charlie Chaplin 1",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210903/46e1fb9beec241c.mp4",
+        "imageUrl": "https://st2.depositphotos.com/1919453/6544/i/600/depositphotos_65441017-stock-photo-charlie-chaplin-writing.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "Charlie Chaplin 2",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210903/42fe6e0720e74f8.mp4",
+        "imageUrl": "https://st2.depositphotos.com/1919453/6544/i/600/depositphotos_65441017-stock-photo-charlie-chaplin-writing.jpg"
+      },
+      {
+        "id": "3",
+        "movieName": "Charlie Chaplin 3",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210904/8ddf2d09665d4e6.mp4",
+        "imageUrl": "https://st2.depositphotos.com/1919453/6544/i/600/depositphotos_65441017-stock-photo-charlie-chaplin-writing.jpg"
+      },
+      {
+        "id": "4",
+        "movieName": "Charlie Chaplin 4",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210906/6b4a755281e5460.mp4",
+        "imageUrl": "https://st2.depositphotos.com/1919453/6544/i/600/depositphotos_65441017-stock-photo-charlie-chaplin-writing.jpg"
+      },
+      {
+        "id": "5",
+        "movieName": "Charlie Chaplin 5",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210907/c82d11339d85453.mp4",
+        "imageUrl": "https://st2.depositphotos.com/1919453/6544/i/600/depositphotos_65441017-stock-photo-charlie-chaplin-writing.jpg"
+      },
+      {
+        "id": "6",
+        "movieName": "Charlie Chaplin 6",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210908/0b4ae6639dad43e.mp4",
+        "imageUrl": "https://st2.depositphotos.com/1919453/6544/i/600/depositphotos_65441017-stock-photo-charlie-chaplin-writing.jpg"
+      },
+      {
+        "id": "7",
+        "movieName": "Charlie Chaplin 7",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210909/82600575a8cc46e.mp4",
+        "imageUrl": "https://st2.depositphotos.com/1919453/6544/i/600/depositphotos_65441017-stock-photo-charlie-chaplin-writing.jpg"
+      },
+      {
+        "id": "8",
+        "movieName": "Charlie Chaplin 8",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210910/30b181d0f711456.mp4",
+        "imageUrl": "https://st2.depositphotos.com/1919453/6544/i/600/depositphotos_65441017-stock-photo-charlie-chaplin-writing.jpg"
+      },
+      {
+        "id": "9",
+        "movieName": "Charlie Chaplin 9",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210911/60d620cb5e5c4c4.mp4",
+        "imageUrl": "https://st2.depositphotos.com/1919453/6544/i/600/depositphotos_65441017-stock-photo-charlie-chaplin-writing.jpg"
+      }
+    ]
   }
 ]
