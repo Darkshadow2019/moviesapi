@@ -87,7 +87,7 @@
         "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210607/8a666e23a12a4e9.mp4",
         "imageUrl": "https://flixwatch.co/wp-content/uploads/70241118.jpg"
       },
-        {
+      {
         "id": "4",
         "movieName": "Recalled(2011)",
         "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210520/b2f7cb17ce044ed.mp4",
@@ -164,6 +164,24 @@
         "movieName": "Black Widow(2021)",
         "fileUrl": "https://omgzone.b-cdn.net/BLACK%20WIDOW.2021.WEB-DL.720P.PP.mp4",
         "imageUrl": "https://happybox.fun/wp-content/uploads/2021/07/black-widow-poster-social-feature.jpg"
+      }
+    ]
+  },
+  {
+    "categoryId": "5",
+    "categoryTitle": "All Movies",
+    "categoryItemList": [
+      {
+        "id": "1",
+        "movieName": "G.I joe : The rise of cobra (2009)",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210517/3586f64649724d8.mp4",
+        "imageUrl": "https://flixable.b-cdn.net/hbo-max/small/g-i-joe-the-rise-of-cobra.jpg"
+      },
+      {
+        "id": "2",
+        "movieName": "G.I joe : Retaliation (2013)",
+        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210517/132d0cd9b928495.mp4",
+        "imageUrl": "https://assets.whatsnewonnetflix.com/external_assets/sggkh+%5B%5Blxx*9*7294*7293_8_muochl_mvg%5Bwmn%5Bzkr%5Be3%5BC805vQhtDYWV7zJyzMwnXCTFK*B%5BZZZZYyBpfK8IkOcd%5D%5DvvFBGwzu1HLvSwUdeNKWN6U2S8zbYZs6GNWLH747cGnRNU28fRV5m9LJvXYAFJnP2OJKIxkv*uK%5D9.jpg"
       }
     ]
   }
