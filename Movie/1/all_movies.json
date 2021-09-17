@@ -167,9 +167,9 @@
       },
       {
         "id": "3",
-        "movieName": "Black Widow(2021)",
-        "fileUrl": "https://mycinema.asia/media/films/Black.Widow.2021.360/Black.Widow.2021.360.m3u8",
-        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/07/black-widow-poster-social-feature.jpg"
+        "movieName": "Detective Dee: Solitary Skies Killer",
+        "fileUrl": "https://mycinema.asia/media/films/Detective_Dee_Solitary_Skies_Killer_2020_720/Detective_Dee_Solitary_Skies_Killer_2020_720.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_3501.jpg"
       }
     ]
   },
@@ -224,6 +224,12 @@
         "movieName": "Triggered",
         "fileUrl": "https://mycinema.asia/media/films/Triggered.2020.360p/Triggered.2020.360p.m3u8",
         "imageUrl": "https://mycinema.asia/image/banner_7236.jpg"
+      },
+        {
+        "id": "9",
+        "movieName": "Black Widow(2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Black.Widow.2021.360/Black.Widow.2021.360.m3u8",
+        "imageUrl": "https://happybox.fun/wp-content/uploads/2021/07/black-widow-poster-social-feature.jpg"
       }
     ]
   }
