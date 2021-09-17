@@ -206,6 +206,18 @@
         "movieName": "Blood Red Sky (2021)",
         "fileUrl": "https://mycinema.asia/media/films/Blood.Red.Sky.2021.360/Blood.Red.Sky.2021.360.m3u8",
         "imageUrl": "https://mycinema.asia/image/banner_7206.jpg"
+      },
+               {
+        "id": "7",
+        "movieName": "Jungle Cruise (2021)",
+        "fileUrl": "https://mycinema.asia/media/films/Jungle.Cruise.2021.360/Jungle.Cruise.2021.360.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7201.jpg"
+      },
+               {
+        "id": "8",
+        "movieName": "Triggered",
+        "fileUrl": "https://mycinema.asia/media/films/Triggered.2020.360p/Triggered.2020.360p.m3u8",
+        "imageUrl": "https://mycinema.asia/image/banner_7236.jpg"
       }
     ]
   }
