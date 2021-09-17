@@ -533,63 +533,99 @@
     "categoryItemList": [
       {
         "id": "1",
-        "movieName": "Backstreet Rookie Ep-01",
+        "movieName": "Backstreet Rookie Ep-1",
         "fileUrl": "https://mycinema.asia/media/series/Backstreet_Rookie/Backstreet_Rookie_Ep1_360/Backstreet_Rookie_Ep1_360.m3u8",
         "imageUrl": "https://kdramadreaming.files.wordpress.com/2020/08/1592632043-20200620-backstreet.jpg"
       },
       {
         "id": "2",
-        "movieName": "Move to Heaven  Ep2",
-        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210529/aee9376d792a4fc.mp4",
-        "imageUrl": "https://occ-0-116-114.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTLGr6o2sQK25FX2ifmNyWPgU0Vbgg8mw-8fMQ7g5WeoayfZnGXPvHyVffKl96YW4t788JAyZGrl9do3ZGqMhX7IUIJGqLu96pjXGVpg26vCXsWgwUYtSUGCiWrc.jpg"
+        "movieName": "Backstreet Rookie Ep-2",
+        "fileUrl": "https://mycinema.asia/media/series/Backstreet_Rookie/Backstreet_Rookie_Ep2_360/Backstreet_Rookie_Ep2_360.m3u8",
+        "imageUrl": "https://kdramadreaming.files.wordpress.com/2020/08/1592632043-20200620-backstreet.jpg"
       },
       {
         "id": "3",
-        "movieName": "Move to Heaven Ep3",
-        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210529/6f343c4ed1a54e4.mp4",
-        "imageUrl": "https://occ-0-116-114.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTLGr6o2sQK25FX2ifmNyWPgU0Vbgg8mw-8fMQ7g5WeoayfZnGXPvHyVffKl96YW4t788JAyZGrl9do3ZGqMhX7IUIJGqLu96pjXGVpg26vCXsWgwUYtSUGCiWrc.jpg"
+        "movieName": "Backstreet Rookie Ep-3",
+        "fileUrl": "https://mycinema.asia/media/series/Backstreet_Rookie/Backstreet_Rookie_Ep3_360/Backstreet_Rookie_Ep3_360.m3u8",
+        "imageUrl": "https://kdramadreaming.files.wordpress.com/2020/08/1592632043-20200620-backstreet.jpg"
       },
       {
         "id": "4",
-        "movieName": "Move to Heaven  Ep4",
-        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210529/abfce36031944af.mp4",
-        "imageUrl": "https://occ-0-116-114.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTLGr6o2sQK25FX2ifmNyWPgU0Vbgg8mw-8fMQ7g5WeoayfZnGXPvHyVffKl96YW4t788JAyZGrl9do3ZGqMhX7IUIJGqLu96pjXGVpg26vCXsWgwUYtSUGCiWrc.jpg"
+        "movieName": "Backstreet Rookie Ep-4",
+        "fileUrl": "https://mycinema.asia/media/series/Backstreet_Rookie/Backstreet_Rookie_Ep4_360/Backstreet_Rookie_Ep4_360.m3u8",
+        "imageUrl": "https://kdramadreaming.files.wordpress.com/2020/08/1592632043-20200620-backstreet.jpg"
       },
       {
         "id": "5",
-        "movieName": "Move to Heaven  Ep5",
-        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210529/eb5ef41a02954d5.mp4",
-        "imageUrl": "https://occ-0-116-114.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTLGr6o2sQK25FX2ifmNyWPgU0Vbgg8mw-8fMQ7g5WeoayfZnGXPvHyVffKl96YW4t788JAyZGrl9do3ZGqMhX7IUIJGqLu96pjXGVpg26vCXsWgwUYtSUGCiWrc.jpg"
+        "movieName": "Backstreet Rookie Ep-5",
+        "fileUrl": "https://mycinema.asia/media/series/Backstreet_Rookie/Backstreet_Rookie_Ep5_360/Backstreet_Rookie_Ep5_360.m3u8",
+        "imageUrl": "https://kdramadreaming.files.wordpress.com/2020/08/1592632043-20200620-backstreet.jpg"
       },
       {
         "id": "6",
-        "movieName": "Move to Heaven  Ep6",
-        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210603/899d9e61e54746e.mp4",
-        "imageUrl": "https://occ-0-116-114.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTLGr6o2sQK25FX2ifmNyWPgU0Vbgg8mw-8fMQ7g5WeoayfZnGXPvHyVffKl96YW4t788JAyZGrl9do3ZGqMhX7IUIJGqLu96pjXGVpg26vCXsWgwUYtSUGCiWrc.jpg"
+        "movieName": "Backstreet Rookie Ep-6",
+        "fileUrl": "https://mycinema.asia/media/series/Backstreet_Rookie/Backstreet_Rookie_Ep6_360/Backstreet_Rookie_Ep6_360.m3u8",
+        "imageUrl": "https://kdramadreaming.files.wordpress.com/2020/08/1592632043-20200620-backstreet.jpg"
       },
       {
         "id": "7",
-        "movieName": "Move to Heaven Ep7",
-        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210603/df6b617f938c41f.mp4",
-        "imageUrl": "https://occ-0-116-114.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTLGr6o2sQK25FX2ifmNyWPgU0Vbgg8mw-8fMQ7g5WeoayfZnGXPvHyVffKl96YW4t788JAyZGrl9do3ZGqMhX7IUIJGqLu96pjXGVpg26vCXsWgwUYtSUGCiWrc.jpg"
+        "movieName": "Backstreet Rookie Ep-7",
+        "fileUrl": "https://mycinema.asia/media/series/Backstreet_Rookie/Backstreet_Rookie_Ep7_360/Backstreet_Rookie_Ep7_360.m3u8",
+        "imageUrl": "https://kdramadreaming.files.wordpress.com/2020/08/1592632043-20200620-backstreet.jpg"
       },
       {
         "id": "8",
-        "movieName": "Move to Heaven Ep8",
-        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210607/779141dee7034fa.mp4",
-        "imageUrl": "https://occ-0-116-114.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTLGr6o2sQK25FX2ifmNyWPgU0Vbgg8mw-8fMQ7g5WeoayfZnGXPvHyVffKl96YW4t788JAyZGrl9do3ZGqMhX7IUIJGqLu96pjXGVpg26vCXsWgwUYtSUGCiWrc.jpg"
+        "movieName": "Backstreet Rookie Ep-8",
+        "fileUrl": "https://mycinema.asia/media/series/Backstreet_Rookie/Backstreet_Rookie_Ep8_360/Backstreet_Rookie_Ep8_360.m3u8",
+        "imageUrl": "https://kdramadreaming.files.wordpress.com/2020/08/1592632043-20200620-backstreet.jpg"
       },
       {
         "id": "9",
-        "movieName": "Move to Heaven Ep9",
-        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210607/8958d5f877584cf.mp4",
-        "imageUrl": "https://occ-0-116-114.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTLGr6o2sQK25FX2ifmNyWPgU0Vbgg8mw-8fMQ7g5WeoayfZnGXPvHyVffKl96YW4t788JAyZGrl9do3ZGqMhX7IUIJGqLu96pjXGVpg26vCXsWgwUYtSUGCiWrc.jpg"
+        "movieName": "Backstreet Rookie Ep-9",
+        "fileUrl": "https://mycinema.asia/media/series/Backstreet_Rookie/Backstreet_Rookie_Ep9_360/Backstreet_Rookie_Ep9_360.m3u8",
+        "imageUrl": "https://kdramadreaming.files.wordpress.com/2020/08/1592632043-20200620-backstreet.jpg"
       },
       {
         "id": "10",
-        "movieName": "Move to Heaven Ep10(End)",
-        "fileUrl": "http://202.191.109.134/video/videomocha_upload/mp4/20210607/5bcd46f0705d456.mp4",
-        "imageUrl": "https://occ-0-116-114.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTLGr6o2sQK25FX2ifmNyWPgU0Vbgg8mw-8fMQ7g5WeoayfZnGXPvHyVffKl96YW4t788JAyZGrl9do3ZGqMhX7IUIJGqLu96pjXGVpg26vCXsWgwUYtSUGCiWrc.jpg"
+        "movieName": "Backstreet Rookie Ep-10",
+        "fileUrl": "https://mycinema.asia/media/series/Backstreet_Rookie/Backstreet_Rookie_Ep10_360/Backstreet_Rookie_Ep10_360.m3u8",
+        "imageUrl": "https://kdramadreaming.files.wordpress.com/2020/08/1592632043-20200620-backstreet.jpg"
+      },
+       {
+        "id": "11",
+        "movieName": "Backstreet Rookie Ep-11",
+        "fileUrl": "https://mycinema.asia/media/series/Backstreet_Rookie/Backstreet_Rookie_Ep11_360/Backstreet_Rookie_Ep11_360.m3u8",
+        "imageUrl": "https://kdramadreaming.files.wordpress.com/2020/08/1592632043-20200620-backstreet.jpg"
+      },
+       {
+        "id": "12",
+        "movieName": "Backstreet Rookie Ep-12",
+        "fileUrl": "https://mycinema.asia/media/series/Backstreet_Rookie/Backstreet_Rookie_Ep12_360/Backstreet_Rookie_Ep12_360.m3u8",
+        "imageUrl": "https://kdramadreaming.files.wordpress.com/2020/08/1592632043-20200620-backstreet.jpg"
+      },
+         {
+        "id": "13",
+        "movieName": "Backstreet Rookie Ep-13",
+        "fileUrl": "https://mycinema.asia/media/series/Backstreet_Rookie/Backstreet_Rookie_Ep13_360/Backstreet_Rookie_Ep13_360.m3u8",
+        "imageUrl": "https://kdramadreaming.files.wordpress.com/2020/08/1592632043-20200620-backstreet.jpg"
+      },
+        {
+        "id": "14",
+        "movieName": "Backstreet Rookie Ep-14",
+        "fileUrl": "https://mycinema.asia/media/series/Backstreet_Rookie/Backstreet_Rookie_Ep14_360/Backstreet_Rookie_Ep14_360.m3u8",
+        "imageUrl": "https://kdramadreaming.files.wordpress.com/2020/08/1592632043-20200620-backstreet.jpg"
+      },
+        {
+        "id": "15",
+        "movieName": "Backstreet Rookie Ep-15",
+        "fileUrl": "https://mycinema.asia/media/series/Backstreet_Rookie/Backstreet_Rookie_Ep15_360/Backstreet_Rookie_Ep15_360.m3u8",
+        "imageUrl": "https://kdramadreaming.files.wordpress.com/2020/08/1592632043-20200620-backstreet.jpg"
+      },
+        {
+        "id": "16",
+        "movieName": "Backstreet Rookie Ep-16",
+        "fileUrl": "https://mycinema.asia/media/series/Backstreet_Rookie/Backstreet_Rookie_Ep16_360/Backstreet_Rookie_Ep16_360.m3u8",
+        "imageUrl": "https://kdramadreaming.files.wordpress.com/2020/08/1592632043-20200620-backstreet.jpg"
       }
     ]
   }
