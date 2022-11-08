@@ -1,9 +1,9 @@
 {
   "Channels": [
     {
-      "name": "Crab",
-      "thumb": "http://www.vidsplay.com/wp-content/uploads/2017/04/crab-screenshot.jpg",
-      "video": "https://www.shutterstock.com/shutterstock/videos/1088361951/preview/stock-footage-green-crab-or-shore-crab-carcinus-maenas-moves-along-the-bottom-covered-with-stones-and-algae.webm",
+      "name": "Channel 7",
+      "thumb": "https://upload.wikimedia.org/wikipedia/en/e/e8/Channel7_logo.png",
+      "video": "https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/playlist.m3u8",
       "genre": "Channels"
     },
     {
@@ -13,9 +13,15 @@
       "genre": "Channels"
     },
     {
-      "name": "Turtle",
-      "thumb": "http://www.vidsplay.com/wp-content/uploads/2017/04/turtle-screenshot.jpg",
-      "video": "http://www.vidsplay.com/wp-content/uploads/2017/04/turtle.mp4",
+      "name": "MRTV-4",
+      "thumb": "http://static.pyoneplay.com/static/channel/ch_logo_1578471575.png",
+      "video": "https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/playlist.m3u8",
+      "genre": "Channels"
+    },
+    {
+      "name": "MaharBawdi",
+      "thumb": "http://static.pyoneplay.com/static/channel/ch_logo_1578471575.png",
+      "video": "https://www.pyoneplay.com/5bcd491923eec6001b20ea7a\nhttps://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8",
       "genre": "Channels"
     }
   ],
