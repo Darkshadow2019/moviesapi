@@ -1,4 +1,4 @@
-{'Channels': [{'name': 'Crab',
+[{'Channels': [{'name': 'Crab',
                        'thumb': 'http://www.vidsplay.com/wp-content/uploads/2017/04/crab-screenshot.jpg',
                        'video': 'https://www.shutterstock.com/shutterstock/videos/1088361951/preview/stock-footage-green-crab-or-shore-crab-carcinus-maenas-moves-along-the-bottom-covered-with-stones-and-algae.webm',
                        'genre': 'Channels'},
@@ -36,4 +36,4 @@
                       'thumb': 'http://www.vidsplay.com/wp-content/uploads/2017/05/pizza-screenshot.jpg',
                       'video': 'http://www.vidsplay.com/wp-content/uploads/2017/05/pizza.mp4',
                       'genre': 'Food'}
-                     ]}
+                     ]}]
