@@ -55,6 +55,12 @@
       "thumb": "http://mycinema.asia/image//20221020/avatar_12503.jpg",
       "video": "http://media1.mycinema.asia/media/films/Guardians.of.Time.2022.360p/Guardians.of.Time.2022.360p.m3u8",
       "genre": "ENGLISH Movies"
+    },
+    {
+      "name": "The Prototype",
+      "thumb": "http://mycinema.asia/image/avatar_9612.jpg",
+      "video": "http://media1.mycinema.asia/media/films/Prototype.2022.360p/Prototype.2022.360p.m3u8",
+      "genre": "ENGLISH Movies"
     }
   ],
   "Food": [
