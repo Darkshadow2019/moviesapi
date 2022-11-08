@@ -39,28 +39,28 @@
     {
       "name": "MRTV",
       "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/08/MRTV_logo.png",
-      "video": "https://streammain.myanmartvchannels.com:999/website-mrtv-stream567489/website-mrtv-stream567489/playlist.m3u8",
+      "video": "https://streammain.myanmartvchannels.com:999/website-mrtv2-stream567489/website-mrtv2-stream567489/chunks.m3u8?nimblesessionid=2685997&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDIyIDQ6NDM6MzMgUE0maGFzaF92YWx1ZT1QWTV6NURyd29CNVJvejQ2NUhUaWFBPT0mdmFsaWRtaW51dGVzPTI1JnN0cm1fbGVuPTUz",
       "genre": "TV Channels"
     }
   ],
-  "Cars": [
+  "Action Movies": [
     {
       "name": "Postal Truck",
       "thumb": "http://www.vidsplay.com/wp-content/uploads/2017/05/us_postal-screenshot.jpg",
       "video": "http://www.vidsplay.com/wp-content/uploads/2017/05/us_postal.mp4",
-      "genre": "Cars"
+      "genre": "Action Movies"
     },
     {
       "name": "Traffic",
       "thumb": "http://www.vidsplay.com/wp-content/uploads/2017/05/traffic1-screenshot.jpg",
       "video": "http://www.vidsplay.com/wp-content/uploads/2017/05/traffic1.mp4",
-      "genre": "Cars"
+      "genre": "Action Movies"
     },
     {
       "name": "Traffic Arrows",
       "thumb": "http://www.vidsplay.com/wp-content/uploads/2017/05/traffic_arrows-screenshot.jpg",
       "video": "http://www.vidsplay.com/wp-content/uploads/2017/05/traffic_arrows.mp4",
-      "genre": "Cars"
+      "genre": "Action Movies"
     }
   ],
   "Food": [
