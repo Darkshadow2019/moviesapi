@@ -23,6 +23,12 @@
       "thumb": "https://i.ytimg.com/vi/CLb-cUYLjXo/sddefault_live.jpg",
       "video": "https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8",
       "genre": "TV Channels"
+    },
+    {
+      "name": "Mahar",
+      "thumb": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/05/e8/e1/05e8e1f6-69fe-766a-9f09-9dd4ac32ed70/source/512x512bb.jpg",
+      "video": "https://tv.mahar.live/mahar/website.stream/playlist.m3u8",
+      "genre": "TV Channels"
     }
   ],
   "Cars": [
