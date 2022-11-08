@@ -37,24 +37,24 @@
       "genre": "TV Channels"
     }
   ],
-  "Cars": [
+  "Action Movies": [
     {
-      "name": "Postal Truck",
-      "thumb": "http://www.vidsplay.com/wp-content/uploads/2017/05/us_postal-screenshot.jpg",
-      "video": "http://www.vidsplay.com/wp-content/uploads/2017/05/us_postal.mp4",
-      "genre": "Cars"
+      "name": "Jeepers Creepers: Reborn (2022)",
+      "thumb": "http://mycinema.asia/image//20221021/avatar_12525.jpg",
+      "video": "http://media1.mycinema.asia/media/films/Jeepers.Creepers.Reborn.2022.360p/Jeepers.Creepers.Reborn.2022.360p.m3u8",
+      "genre": "Action Movies"
     },
     {
       "name": "Traffic",
       "thumb": "http://www.vidsplay.com/wp-content/uploads/2017/05/traffic1-screenshot.jpg",
       "video": "http://www.vidsplay.com/wp-content/uploads/2017/05/traffic1.mp4",
-      "genre": "Cars"
+      "genre": "Action Movies"
     },
     {
       "name": "Traffic Arrows",
       "thumb": "http://www.vidsplay.com/wp-content/uploads/2017/05/traffic_arrows-screenshot.jpg",
       "video": "http://www.vidsplay.com/wp-content/uploads/2017/05/traffic_arrows.mp4",
-      "genre": "Cars"
+      "genre": "Action Movies"
     }
   ],
   "Food": [
