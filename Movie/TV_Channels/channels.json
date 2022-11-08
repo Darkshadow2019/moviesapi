@@ -39,7 +39,7 @@
     {
       "name": "MRTV",
       "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/08/MRTV_logo.png",
-      "video": "https://player-api.new.livestream.com/accounts/15604755/events/9605885/broadcasts/229084359.secure.m3u8",
+      "video": "https://streammain.myanmartvchannels.com:999/website-mrtv-stream567489/website-mrtv-stream567489/playlist.m3u8",
       "genre": "TV Channels"
     }
   ],
