@@ -95,7 +95,13 @@
     {
       "name": "Top Gun (2022)",
       "thumb": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
-      "video": "https://fs1.telegramfiles.ml/watch/31100910967053204/Top.Gun.Maverick.2022.mp4",
+      "video": "http://media1.mycinema.asia/media/films/Top.Gun.Maverick.2022.360p/Top.Gun.Maverick.2022.360p.m3u8",
+      "genre": "ENGLISH Movies"
+    },
+    {
+      "name": "Black Adam (2022)",
+      "thumb": "https://m.media-amazon.com/images/M/MV5BYzZkOGUwMzMtMTgyNS00YjFlLTg5NzYtZTE3Y2E5YTA5NWIyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+      "video": "https://fs1.telegramfiles.ml/watch/31101288924175252/Black.Adam.2022.mp4",
       "genre": "ENGLISH Movies"
     }
   ],
