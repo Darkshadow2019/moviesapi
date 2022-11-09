@@ -164,5 +164,25 @@
       "video": "http://www.vidsplay.com/wp-content/uploads/2017/05/pizza.mp4",
       "genre": "Korea Movies"
     }
+  ],
+  "Thai Movies": [
+    {
+      "name": "Hanuman Shadow Master (2022)",
+      "thumb": "https://myanmarsubmovie.com/wp-content/uploads/2022/11/hAG99uWgTIWEgYkDQ4cH9sNH3mq.jpg",
+      "video": "https://download.myanmarsubmovie.com/wp-content/uploads/2022/2022/Movie 02/Hanuman Shadow Master/small/Hanuman Shadow Master.mp4",
+      "genre": "Thai Movies"
+    },
+    {
+      "name": "Bimbisara (2022)",
+      "thumb": "http://mycinema.asia/image//20221104/avatar_12745.jpg",
+      "video": "http://media1.mycinema.asia/media/films/The.Roundup.2022.360p/The.Roundup.2022.360p.m3u8",
+      "genre": "Thai Movies"
+    },
+    {
+      "name": "Pizza",
+      "thumb": "http://www.vidsplay.com/wp-content/uploads/2017/05/pizza-screenshot.jpg",
+      "video": "http://www.vidsplay.com/wp-content/uploads/2017/05/pizza.mp4",
+      "genre": "Thai Movies"
+    }
   ]
 }
