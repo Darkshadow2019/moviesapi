@@ -81,24 +81,24 @@
       "genre": "ENGLISH Movies"
     }
   ],
-  "Food": [
+  "Bollywood Movies": [
     {
-      "name": "Chicken",
-      "thumb": "http://www.vidsplay.com/wp-content/uploads/2017/05/bbq_chicken-screenshot.jpg",
-      "video": "http://www.vidsplay.com/wp-content/uploads/2017/05/bbqchicken.mp4",
-      "genre": "Food"
+      "name": "Khatarnak Khiladi 3 (2017)",
+      "thumb": "https://i.ytimg.com/vi/D1yKXbICoGY/maxresdefault.jpg",
+      "video": "https://fs1.telegramfiles.ml/31096804978318228/2022-11-09_07:03:00.mp4",
+      "genre": "Bollywood Movies"
     },
     {
       "name": "Hamburger",
       "thumb": "http://www.vidsplay.com/wp-content/uploads/2017/05/hamburger-screenshot.jpg",
       "video": "http://www.vidsplay.com/wp-content/uploads/2017/05/hamburger.mp4",
-      "genre": "Food"
+      "genre": "Bollywood Movies"
     },
     {
       "name": "Pizza",
       "thumb": "http://www.vidsplay.com/wp-content/uploads/2017/05/pizza-screenshot.jpg",
       "video": "http://www.vidsplay.com/wp-content/uploads/2017/05/pizza.mp4",
-      "genre": "Food"
+      "genre": "Bollywood Movies"
     }
   ]
 }
