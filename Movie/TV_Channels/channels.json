@@ -101,7 +101,7 @@
     {
       "name": "Black Adam (2022)",
       "thumb": "https://m.media-amazon.com/images/M/MV5BYzZkOGUwMzMtMTgyNS00YjFlLTg5NzYtZTE3Y2E5YTA5NWIyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
-      "video": "https://f72.megaup.net/1Pgn2/Black.Adam.2022.720p.HQ.HDCAM.CM.mp4?download_token=6e0279e6faf880b3e926cd7815d1b80fac405cb2538631f702b2d02cae056b9e",
+      "video": "https://file2directlink.herokuapp.com/137473179617699720811633556/AgAD5gYA/Black.Adam.2022.mp4",
       "genre": "ENGLISH Movies"
     },
     {
@@ -172,6 +172,12 @@
       "name": "The Prodigal Son (2022)",
       "thumb": "http://mycinema.asia/image//20220720/avatar_11103.jpg",
       "video": "http://media1.mycinema.asia/media/films/The.Prodigal.Son.2022.360p/The.Prodigal.Son.2022.360p.m3u8",
+      "genre": "Chinese Movies"
+    },
+    {
+      "name": "Come Back Home ( 2022 )",
+      "thumb": "https://image.tmdb.org/t/p/w185/jagAuGDEv7SlivFFkm6Op449mkH.jpg",
+      "video": "https://f23.megaup.net/3bK2q/Coming.Back.Home.2022.mp4?download_token=b06618683de73fdbe2a5b6b3b06be990ede23630d79534391479086829c8bf65",
       "genre": "Chinese Movies"
     }
   ],
