@@ -287,6 +287,42 @@
       "thumb": "http://mycinema.asia/image//20220823/avatar_11581.jpg",
       "video": "http://media1.mycinema.asia/media/films/Luck.2022.360p/Luck.2022.360p.m3u8",
       "genre": "Cartoon Movies"
+    },
+    {
+      "name": "Green Lantern: Beware My Power (2022)",
+      "thumb": "http://mycinema.asia/image//20220808/avatar_11384.jpg",
+      "video": "http://media1.mycinema.asia/media/films/Green.Lantern.Beware.My.Power.2022.360p/Green.Lantern.Beware.My.Power.2022.360p.m3u8",
+      "genre": "Cartoon Movies"
+    },
+    {
+      "name": "Paws of Fury: The Legend of Hank (2022)",
+      "thumb": "http://mycinema.asia/image//20220802/avatar_11301.jpg",
+      "video": "http://media1.mycinema.asia/media/films/Paws.of.Fury.The.Legend.of.Hank.2022/Paws.of.Fury.The.Legend.of.Hank.2022.m3u8",
+      "genre": "Cartoon Movies"
+    },
+    {
+      "name": "The Sea Beast (2022)",
+      "thumb": "http://mycinema.asia/image//20220721/avatar_11125.jpg",
+      "video": "http://media1.mycinema.asia/media/films/The.Sea.Beast.2022.360p/The.Sea.Beast.2022.360p.m3u8",
+      "genre": "Cartoon Movies"
+    },
+    {
+      "name": "Minions: The Rise of Gru (2022)",
+      "thumb": "http://mycinema.asia/image//20220721/avatar_11121.jpg",
+      "video": "http://media1.mycinema.asia/media/films/Minions.The.Rise.of.Gru.2022.360p/Minions.The.Rise.of.Gru.2022.360p.m3u8",
+      "genre": "Cartoon Movies"
+    },
+    {
+      "name": "Lightyear (2022)",
+      "thumb": "http://mycinema.asia/image//20220720/avatar_11107.jpg",
+      "video": "http://media1.mycinema.asia/media/films/Lightyear.2022.360p/Lightyear.2022.360p.m3u8",
+      "genre": "Cartoon Movies"
+    },
+    {
+      "name": "Ella And The Little Sorcerer (2022)",
+      "thumb": "http://mycinema.asia/image/avatar_10082.jpg",
+      "video": "http://media1.mycinema.asia/media/films/Little.Sorcerer.2022.360P/Little.Sorcerer.2022.360P.m3u8",
+      "genre": "Cartoon Movies"
     }
   ]
 }
