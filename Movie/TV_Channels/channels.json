@@ -129,6 +129,12 @@
       "thumb": "http://mycinema.asia/image//20220928/avatar_12107.jpg",
       "video": "http://media1.mycinema.asia/media/films/Jogi.2022.360p/Jogi.2022.360p.m3u8",
       "genre": "Bollywood Movies"
+    },
+    {
+      "name": "1945",
+      "thumb": "http://mycinema.asia/image/avatar_9408.jpg",
+      "video": "http://media1.mycinema.asia/media/films/1945.2022/1945.2022.m3u8",
+      "genre": "Bollywood Movies"
     }
   ],
   "Chinese Movies": [
@@ -230,6 +236,18 @@
       "name": "Pee Nak 3 (2022)",
       "thumb": "http://mycinema.asia/image//20220809/avatar_11405.jpg",
       "video": "http://media1.mycinema.asia/media/films/Pee.Nak.3.2022.360p/Pee.Nak.3.2022.360p.m3u8",
+      "genre": "Thai Movies"
+    },
+    {
+      "name": "Cracked (2022)",
+      "thumb": "http://mycinema.asia/image//20220712/avatar_11021.jpg",
+      "video": "http://media1.mycinema.asia/media/films/Cracked.2022.360p/Cracked.2022.360p.m3u8",
+      "genre": "Thai Movies"
+    },
+    {
+      "name": "AI Love You (2022)",
+      "thumb": "http://mycinema.asia/image/avatar_9786.jpg",
+      "video": "http://media1.mycinema.asia/media/films/AI.Love.You_2022/AI.Love.You_2022.m3u8",
       "genre": "Thai Movies"
     }
   ]
