@@ -323,6 +323,42 @@
       "thumb": "http://mycinema.asia/image/avatar_10082.jpg",
       "video": "http://media1.mycinema.asia/media/films/Little.Sorcerer.2022.360P/Little.Sorcerer.2022.360P.m3u8",
       "genre": "Cartoon Movies"
+    },
+    {
+      "name": "King Tweety (2022)",
+      "thumb": "http://mycinema.asia/image//20220701/avatar_10881.jpg",
+      "video": "http://media1.mycinema.asia/media/films/King.Tweety.2022.360p/King.Tweety.2022.360p.m3u8",
+      "genre": "Cartoon Movies"
+    },
+    {
+      "name": "Chip 'n Dale: Rescue Rangers (2022)",
+      "thumb": "http://mycinema.asia/image//20220628/avatar_10822.jpg",
+      "video": "http://media1.mycinema.asia/media/films/Chip.n.Dale.Rescue.Rangers.2022.360p/Chip.n.Dale.Rescue.Rangers.2022.360p.m3u8",
+      "genre": "Cartoon Movies"
+    },
+    {
+      "name": "Marmaduke (2022)",
+      "thumb": "http://mycinema.asia/image/avatar_10086.jpg",
+      "video": "http://media1.mycinema.asia/media/films/Marmaduke.2022.360P/Marmaduke.2022.360P.m3u8",
+      "genre": "Cartoon Movies"
+    },
+    {
+      "name": "The Bad Guys",
+      "thumb": "http://mycinema.asia/image/avatar_9961.jpg",
+      "video": "http://media1.mycinema.asia/media/films/The.Bad.Guys.2022.360p3/The.Bad.Guys.2022.360p3.m3u8",
+      "genre": "Cartoon Movies"
+    },
+    {
+      "name": "Constantine: The House of Mystery",
+      "thumb": "http://mycinema.asia/image/avatar_9954.jpg",
+      "video": "http://media1.mycinema.asia/media/films/Constantine.The.House.of.Mystery.2022.360p/Constantine.The.House.of.Mystery.2022.360p.m3u8",
+      "genre": "Cartoon Movies"
+    },
+    {
+      "name": "Belle (2021)",
+      "thumb": "http://mycinema.asia/image/avatar_9790.jpg",
+      "video": "http://media1.mycinema.asia/media/films/Belle_2021/Belle_2021.m3u8",
+      "genre": "Cartoon Movies"
     }
   ]
 }
