@@ -359,6 +359,12 @@
       "thumb": "http://mycinema.asia/image/avatar_9404.jpg",
       "video": "http://media1.mycinema.asia/media/films/Catwoman.Hunted.2022/Catwoman.Hunted.2022.m3u8",
       "genre": "Cartoon Movies"
+    },
+    {
+      "name": "Monkey King Reborn",
+      "thumb": "https://mycinema.asia/image/avatar_8781.jpg",
+      "video": "http://media1.mycinema.asia/media/films/Monkey.King.Reborn.2021.360P/Monkey.King.Reborn.2021.360P.m3u8",
+      "genre": "Cartoon Movies"
     }
   ]
 }
