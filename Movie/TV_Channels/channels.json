@@ -540,5 +540,11 @@
       "video": "http://media1.mycinema.asia/media/films/Monkey.King.Reborn.2021.360P/Monkey.King.Reborn.2021.360P.m3u8",
       "genre": "Cartoon Movies"
     }
-  ]
+  ],
+  "Other Movies":[{
+     "name": "Satria Dewa: Gatotkaca (2022)",
+      "thumb": "https://channelmyanmar.org/wp-content/uploads/2022/11/MV5BOWEzN2IxOTktMzBjMS00ZWU1LWI0OTgtZjViNWYxOWY1MjUxXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_.jpg",
+      "video": "https://f13.megaup.net/19Tja/Satria.Dewa.Gatotkaca.2022.720p.NF.WEB-DL[CM].mp4?download_token=c27624f4df71af336352200df1527f5e2efad9119caf81441d85b7e813803106",
+      "genre": "Other Movies"
+  }]
 }
