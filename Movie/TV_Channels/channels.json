@@ -385,6 +385,12 @@
       "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Sector_7_film_poster.jpg/220px-Sector_7_film_poster.jpg",
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/KOREA/Sector.7.mp4",
       "genre": "Korea Movies"
+    },
+    {
+      "name": "Project Wolf Hunting (2022)",
+      "thumb": "https://image.tmdb.org/t/p/w185/h1pLOZATBr7oVDrwj3DfOjTOCGk.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/KOREA/Project.Wolf.Hunting.mp4",
+      "genre": "Korea Movies"
     }
   ],
   "Thai Movies": [
