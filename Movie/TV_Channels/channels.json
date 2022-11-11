@@ -355,6 +355,18 @@
       "thumb": "http://mycinema.asia/image//20220803/avatar_11317.jpg",
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/KOREA/The.Roundup.2022.mp4",
       "genre": "Korea Movies"
+    },
+    {
+      "name": "The Witch: Part 2 (2022)",
+      "thumb": "http://mycinema.asia/image//20220722/avatar_11141.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/KOREA/The.Witch.Part.2.The.Other.One.mp4",
+      "genre": "Korea Movies"
+    },
+    {
+      "name": "The Witch: Part 1 (2018)",
+      "thumb": "https://m.media-amazon.com/images/M/MV5BZDg2ODMxNDEtZmMwNC00OGViLWFjMzQtNWUzYTA3NjM1ZmJhXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/KOREA/The.Witch.Part.1.The.Subversion.mp4",
+      "genre": "Korea Movies"
     }
   ],
   "Thai Movies": [
