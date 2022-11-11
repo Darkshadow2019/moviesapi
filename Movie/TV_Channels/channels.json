@@ -379,6 +379,12 @@
       "thumb": "https://m.media-amazon.com/images/M/MV5BMzdjNjJmNGQtZWEwOS00ZDkzLThjNzEtNGNjODYyMjc4MTc5XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/KOREA/Emergency.Declaration.2022.mp4",
       "genre": "Korea Movies"
+    },
+    {
+      "name": "Sector 7",
+      "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Sector_7_film_poster.jpg/220px-Sector_7_film_poster.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/KOREA/Sector.7.mp4",
+      "genre": "Korea Movies"
     }
   ],
   "Thai Movies": [
