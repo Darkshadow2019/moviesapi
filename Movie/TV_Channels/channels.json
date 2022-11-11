@@ -211,6 +211,18 @@
       "thumb": "http://mycinema.asia/image//20220927/avatar_12090.jpg",
       "video": "http://media1.mycinema.asia/media/films/Ghoster.2022.360p/Ghoster.2022.360p.m3u8",
       "genre": "ENGLISH Movies"
+    },
+    {
+      "name": "Deus (2022)",
+      "thumb": "http://mycinema.asia/image//20220927/avatar_12086.jpg",
+      "video": "http://media1.mycinema.asia/media/films/Deus.The.Dark.Sphere.2022.360p/Deus.The.Dark.Sphere.2022.360p.m3u8",
+      "genre": "ENGLISH Movies"
+    },
+    {
+      "name": "The Ledge (2022)",
+      "thumb": "http://mycinema.asia/image//20220923/avatar_12045.jpg",
+      "video": "http://media1.mycinema.asia/media/films/The.Ledge.2022.360p/The.Ledge.2022.360p.m3u8",
+      "genre": "ENGLISH Movies"
     }
   ],
   "Bollywood Movies": [
