@@ -236,10 +236,16 @@
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/Doctor.Strange.in.the.Multiverse.of.Madness.mp4",
       "genre": "ENGLISH Movies"
     },
-      {
+    {
       "name": "Iké Boys(2022)",
       "thumb": "https://channelmyanmar.org/wp-content/uploads/2022/11/insert-ik.jpg",
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/Ike.Boys.2021.mp4",
+      "genre": "ENGLISH Movies"
+    },
+    {
+      "name": "The Lost City(2022)",
+      "thumb": "https://image.tmdb.org/t/p/w185/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/The.Lost.City.mp4",
       "genre": "ENGLISH Movies"
     }
   ],
@@ -595,10 +601,12 @@
       "genre": "Cartoon Movies"
     }
   ],
-  "Other Movies":[{
-     "name": "Satria Dewa: Gatotkaca (2022)",
+  "Other Movies": [
+    {
+      "name": "Satria Dewa: Gatotkaca (2022)",
       "thumb": "https://channelmyanmar.org/wp-content/uploads/2022/11/MV5BOWEzN2IxOTktMzBjMS00ZWU1LWI0OTgtZjViNWYxOWY1MjUxXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_.jpg",
       "video": "https://f13.megaup.net/19Tja/Satria.Dewa.Gatotkaca.2022.720p.NF.WEB-DL[CM].mp4?download_token=c27624f4df71af336352200df1527f5e2efad9119caf81441d85b7e813803106",
       "genre": "Other Movies"
-  }]
+    }
+  ]
 }
