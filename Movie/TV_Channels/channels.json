@@ -301,21 +301,28 @@
       "thumb": "https://image.tmdb.org/t/p/w185/DWQOjAPvM8Kk1Qp3Xq0zae0Z6w.jpg",
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/Meet.the.Spartans.2008.mp4",
       "genre": "Meet the Spartans (2008)",
-            "plot": "Belinda Waymouth, Carmen Electra, Crista Flanagan, Dean Cochran, Diedrich Bader, Emily Wilson, Hunter Clary, Ike Barinholtz, Jareb Dauplaise, Jesse Lewis IV, Jessica Heap, Jim Nieb, Jim Piddock, John Di Domenico, Ken Davitian, Kevin Sorbo, Lauren Walsh, Martin Klebba, Method Man, Nate Haden, Nick Steele, Nicole Parker, Phil Morris, Robin Atkin Downes, Ryan Fraley, Sean Maguire, Tiffany Claus, Tiffany Haddish, Tim Connolly, Tony Yalda, Travis Van Winkle, Zachary Dylan Smith"
+      "plot": "Belinda Waymouth, Carmen Electra, Crista Flanagan, Dean Cochran, Diedrich Bader, Emily Wilson, Hunter Clary, Ike Barinholtz, Jareb Dauplaise, Jesse Lewis IV, Jessica Heap, Jim Nieb, Jim Piddock, John Di Domenico, Ken Davitian, Kevin Sorbo, Lauren Walsh, Martin Klebba, Method Man, Nate Haden, Nick Steele, Nicole Parker, Phil Morris, Robin Atkin Downes, Ryan Fraley, Sean Maguire, Tiffany Claus, Tiffany Haddish, Tim Connolly, Tony Yalda, Travis Van Winkle, Zachary Dylan Smith"
     },
     {
       "name": "Smile (2022)",
       "thumb": "https://channelmyanmar.org/wp-content/uploads/2022/11/MV5BZjE2ZWIwMWEtNGFlMy00ZjYzLWEzOWEtYzQ0MDAwZDRhYzNjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_-scaled.jpg",
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/Smile.2022.mp4",
       "genre": "Smile (2022)",
-            "plot": "IMDB: 6.9/10,Horror"
+      "plot": "IMDB: 6.9/10,Horror"
     },
-      {
+    {
       "name": "Van Helsing (2004)",
       "thumb": "https://channelmyanmar.org/wp-content/uploads/2016/01/van-helsing-poster.jpg",
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/Van.Helsing.2004.mp4",
       "genre": "Van Helsing (2004)",
-            "plot": "IMDB: 6.1/10/Action, Adventure, Fantasy, Horror/Greg Michael, Lukas Libal, Maria Battle Campbell, Stephen Sommers, Sylvie Chesneau"
+      "plot": "IMDB: 6.1/10/Action, Adventure, Fantasy, Horror/Greg Michael, Lukas Libal, Maria Battle Campbell, Stephen Sommers, Sylvie Chesneau"
+    },
+    {
+      "name": "Thor: Love and Thunder (2022)",
+      "thumb": "https://channelmyanmar.org/wp-content/uploads/2022/07/th.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/Thor.Love.and.Thundar.2022.mp4",
+      "genre": "Thor: Love and Thunder (2022)",
+      "plot": "IMDB:7/10 Action, Adventure, Comedy"
     }
   ],
   "Bollywood Movies": [
