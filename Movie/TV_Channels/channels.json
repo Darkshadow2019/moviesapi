@@ -69,7 +69,7 @@
       "name": "The Prototype",
       "thumb": "http://mycinema.asia/image/avatar_9612.jpg",
       "video": "http://media1.mycinema.asia/media/films/Prototype.2022.360p/Prototype.2022.360p.m3u8",
-       "plot": "The Prototype",
+      "plot": "The Prototype",
       "genre": "ENGLISH Movies"
     },
     {
@@ -174,7 +174,7 @@
       "name": "Terrifier 2(2022)",
       "thumb": "http://mycinema.asia/image//20221105/avatar_12765.jpg",
       "video": "http://media1.mycinema.asia/media/films/errifier.2.2022.360p/errifier.2.2022.360p.m3u8",
-       "plot": "Terrifier 2(2022)",
+      "plot": "Terrifier 2(2022)",
       "genre": "ENGLISH Movies"
     },
     {
@@ -295,30 +295,35 @@
       "name": "Khatarnak Khiladi 3 (2017)",
       "thumb": "https://i.ytimg.com/vi/D1yKXbICoGY/maxresdefault.jpg",
       "video": "https://fs1.telegramfiles.ml/31096804978318228/2022-11-09_07:03:00.mp4",
+      "plot": "Khatarnak Khiladi 3 (2017)",
       "genre": "Bollywood Movies"
     },
     {
       "name": "Bimbisara (2022)",
       "thumb": "http://mycinema.asia/image//20221104/avatar_12745.jpg",
       "video": "http://media1.mycinema.asia/media/films/Bimbisara.2022.360p/Bimbisara.2022.360p.m3u8",
+      "plot": "Bimbisara (2022)",
       "genre": "Bollywood Movies"
     },
     {
       "name": "Jogi (2022)",
       "thumb": "http://mycinema.asia/image//20220928/avatar_12107.jpg",
       "video": "http://media1.mycinema.asia/media/films/Jogi.2022.360p/Jogi.2022.360p.m3u8",
+      "plot": "Jogi (2022)",
       "genre": "Bollywood Movies"
     },
     {
       "name": "1945",
       "thumb": "http://mycinema.asia/image/avatar_9408.jpg",
       "video": "http://media1.mycinema.asia/media/films/1945.2022/1945.2022.m3u8",
+      "plot": "1945",
       "genre": "Bollywood Movies"
     },
     {
       "name": "Monica, O My Darling(2022)",
       "thumb": "https://channelmyanmar.org/wp-content/uploads/2022/11/MV5BYTZjNzI1ZTItOTE5Ny00MjBjLWE1NjUtOWRkZWVkOTk2OTZmXkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_.jpg",
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/INDIA/Monica.O.My.Darling.2022.mp4",
+      "plot": "Monica, O My Darling(2022)",
       "genre": "Bollywood Movies"
     }
   ],
@@ -327,84 +332,98 @@
       "name": "Fuhuo zhu luo ji (2022)",
       "thumb": "http://mycinema.asia/image//20221104/avatar_12753.jpg",
       "video": "http://media1.mycinema.asia/media/films/Fuhuo.zhu.luo.ji.2022.360p/Fuhuo.zhu.luo.ji.2022.360p.m3u8",
+      "plot": "Fuhuo zhu luo ji (2022)",
       "genre": "Chinese Movies"
     },
     {
       "name": "Wild Man In Shennong (2022)",
       "thumb": "http://mycinema.asia/image//20220811/avatar_11425.jpg",
       "video": "http://media1.mycinema.asia/media/films/Wild.Man.In.Shennong.2022.360p/Wild.Man.In.Shennong.2022.360p.m3u8",
+      "plot": "Wild Man In Shennong (2022)",
       "genre": "Chinese Movies"
     },
     {
       "name": "Golden Escape (2022)",
       "thumb": "http://mycinema.asia/image//20220908/avatar_11775.jpg",
       "video": "http://media1.mycinema.asia/media/films/Golden.Escape.2022.360p/Golden.Escape.2022.360p.m3u8",
+      "plot": "Golden Escape (2022)",
       "genre": "Chinese Movies"
     },
     {
       "name": "The Treasure Code (2022)",
       "thumb": "http://mycinema.asia/image//20220804/avatar_11341.jpg",
       "video": "http://media1.mycinema.asia/media/films/The.Treasure.Code.2022.360p/The.Treasure.Code.2022.360p.m3u8",
+      "plot": "The Treasure Code (2022)",
       "genre": "Chinese Movies"
     },
     {
       "name": "Mysterious Story of the Executioner (2022)",
       "thumb": "http://mycinema.asia/image//20220801/avatar_11285.jpg",
       "video": "http://media1.mycinema.asia/media/films/Mysterious.Story.of.the.Executioner.2022.360p/Mysterious.Story.of.the.Executioner.2022.360p.m3u8",
+      "plot": "Mysterious Story of the Executioner (2022)",
       "genre": "Chinese Movies"
     },
     {
       "name": "The Prodigal Son (2022)",
       "thumb": "http://mycinema.asia/image//20220720/avatar_11103.jpg",
       "video": "http://media1.mycinema.asia/media/films/The.Prodigal.Son.2022.360p/The.Prodigal.Son.2022.360p.m3u8",
+      "plot": "The Prodigal Son (2022)",
       "genre": "Chinese Movies"
     },
     {
       "name": "Come Back Home (2022)",
       "thumb": "https://image.tmdb.org/t/p/w185/jagAuGDEv7SlivFFkm6Op449mkH.jpg",
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/CHINA/Coming.Back.Home.2022.mp4",
+      "plot": "Come Back Home (2022)",
       "genre": "Chinese Movies"
     },
     {
       "name": "The Desert Dragon (2021)",
       "thumb": "https://image.tmdb.org/t/p/w185/5r8IKmy4I4gswqZqHSCal1adHi.jpg",
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/CHINA/Desert.Dragon.2021.mp4",
+      "plot": "The Desert Dragon (2021)",
       "genre": "Chinese Movies"
     },
     {
       "name": "Detective Dee and Deadly Fragrance (2022)",
       "thumb": "https://image.tmdb.org/t/p/w185/p16MvOHuToMxFJxPMbAnWfOpgea.jpg",
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/CHINA/Detective.Dee.and.Deadly.Fragrance.2022.mp4",
+      "plot": "Detective Dee and Deadly Fragrance (2022)",
       "genre": "Chinese Movies"
     },
     {
       "name": "Fighting Darksider(2022)",
       "thumb": "https://channelmyanmar.org/wp-content/uploads/2022/04/fEgPzmDmvrVUwYoXxDq0QFitLE8.jpg",
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/CHINA/Fighting.Darksider.mp4",
+      "plot": "Fighting Darksider(2022)",
       "genre": "Chinese Movies"
     },
     {
       "name": "Golden Spider City(2022)",
       "thumb": "https://image.tmdb.org/t/p/w185/xOj4l9ElptzjUMY5u2349Uhc0eD.jpg",
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/CHINA/Golden.Spider.City.mp4",
+      "plot": "Golden Spider City(2022)",
       "genre": "Chinese Movies"
     },
     {
       "name": "Novo Land:Floating Heart(2022)",
       "thumb": "https://channelmyanmar.org/wp-content/uploads/2022/06/FcEwHz2.png",
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/CHINA/Novo.Land.Floating.Heart.mp4",
+      "plot": "Novo Land:Floating Heart(2022)",
       "genre": "Chinese Movies"
     },
     {
       "name": "Qinling Mountains(2022)",
       "thumb": "https://image.tmdb.org/t/p/w185/qNOza32GNEMyvsqBJHx1cSMBnS5.jpg",
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/CHINA/Qinling_Mountains.mp4",
+      "plot": "Qinling Mountains(2022)",
       "genre": "Chinese Movies"
     },
     {
       "name": "Revenge Girl(2022)",
       "thumb": "https://channelmyanmar.org/wp-content/uploads/2022/06/l2woatbdjizd.jpg",
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/CHINA/Revenge.Girl.mp4",
+      "plot": "Revenge Girl(2022)",
       "genre": "Chinese Movies"
     }
   ],
@@ -413,84 +432,98 @@
       "name": "Alienoid (2022)",
       "thumb": "http://mycinema.asia/image//20220913/avatar_11881.jpg",
       "video": "http://media1.mycinema.asia/media/films/Alienoid.2022.360p/Alienoid.2022.360p.m3u8",
+      "plot": "Alienoid (2022)",
       "genre": "Korea Movies"
     },
     {
       "name": "Hansan: Rising Dragon (2022)",
       "thumb": "http://mycinema.asia/image//20220914/avatar_11903.jpg",
       "video": "http://media1.mycinema.asia/media/films/Hansan.Rising.Dragon.2022.360p/Hansan.Rising.Dragon.2022.360p.m3u8",
+      "plot": "Hansan: Rising Dragon (2022)",
       "genre": "Korea Movies"
     },
     {
       "name": "The Pirates: The Last Royal Treasure",
       "thumb": "http://mycinema.asia/image/avatar_9589.jpg",
       "video": "http://media1.mycinema.asia/media/films/The.Pirates.The.Last.Royal.Treasure.2022.360p/The.Pirates.The.Last.Royal.Treasure.2022.360p.m3u8",
+      "plot": "The Pirates: The Last Royal Treasure",
       "genre": "Korea Movies"
     },
     {
       "name": "The Girl on a Bulldozer (2022)",
       "thumb": "http://mycinema.asia/image//20220618/avatar_10671.jpg",
       "video": "http://media1.mycinema.asia/media/films/The.Girl.on.a.Bulldozer.2022.360p/The.Girl.on.a.Bulldozer.2022.360p.m3u8",
+      "plot": "The Girl on a Bulldozer (2022)",
       "genre": "Korea Movies"
     },
     {
       "name": "Yaksha: Ruthless Operations",
       "thumb": "http://mycinema.asia/image/avatar_9895.jpg",
       "video": "http://media1.mycinema.asia/media/films/Yaksha.Ruthless.Operations.2022.360p/Yaksha.Ruthless.Operations.2022.360p.m3u8",
+      "plot": "Yaksha: Ruthless Operations",
       "genre": "Korea Movies"
     },
     {
       "name": "Special Delivery",
       "thumb": "http://mycinema.asia/image/avatar_9205.jpg",
       "video": "http://media1.mycinema.asia/media/films/Special.Delivery.2022.360P/Special.Delivery.2022.360P.m3u8",
+      "plot": "Special Delivery",
       "genre": "Korea Movies"
     },
     {
       "name": "The Policeman’s Lineage",
       "thumb": "https://mycinema.asia/image/avatar_8904.jpg",
       "video": "http://media1.mycinema.asia/media/films/The.Policemans.Lineage.2022.360P/The.Policemans.Lineage.2022.360P.m3u8",
+      "plot": "The Policeman’s Lineage",
       "genre": "Korea Movies"
     },
     {
       "name": "The Roundup(2022)",
       "thumb": "http://mycinema.asia/image//20220803/avatar_11317.jpg",
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/KOREA/The.Roundup.2022.mp4",
+      "plot": "The Roundup(2022)",
       "genre": "Korea Movies"
     },
     {
       "name": "The Witch: Part 2 (2022)",
       "thumb": "http://mycinema.asia/image//20220722/avatar_11141.jpg",
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/KOREA/The.Witch.Part.2.The.Other.One.mp4",
+      "plot": "The Witch: Part 2 (2022)",
       "genre": "Korea Movies"
     },
     {
       "name": "The Witch: Part 1 (2018)",
       "thumb": "https://m.media-amazon.com/images/M/MV5BZDg2ODMxNDEtZmMwNC00OGViLWFjMzQtNWUzYTA3NjM1ZmJhXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_.jpg",
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/KOREA/The.Witch.Part.1.The.Subversion.mp4",
+      "plot": "The Witch: Part 1 (2018)",
       "genre": "Korea Movies"
     },
     {
       "name": "Mission: Possible (2021)",
       "thumb": "https://mycinema.asia/image/avatar_6862.jpg",
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/KOREA/Mission.Possible.2021.mp4",
+      "plot": "Mission: Possible (2021)",
       "genre": "Korea Movies"
     },
     {
       "name": "Emergency Declaration (2021)",
       "thumb": "https://m.media-amazon.com/images/M/MV5BMzdjNjJmNGQtZWEwOS00ZDkzLThjNzEtNGNjODYyMjc4MTc5XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/KOREA/Emergency.Declaration.2022.mp4",
+      "plot": "Emergency Declaration (2021)",
       "genre": "Korea Movies"
     },
     {
       "name": "Sector 7",
       "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Sector_7_film_poster.jpg/220px-Sector_7_film_poster.jpg",
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/KOREA/Sector.7.mp4",
+      "plot": "Sector 7",
       "genre": "Korea Movies"
     },
     {
       "name": "Project Wolf Hunting (2022)",
       "thumb": "https://image.tmdb.org/t/p/w185/h1pLOZATBr7oVDrwj3DfOjTOCGk.jpg",
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/KOREA/Project.Wolf.Hunting.mp4",
+      "plot": "Project Wolf Hunting (2022)",
       "genre": "Korea Movies"
     }
   ],
@@ -499,30 +532,35 @@
       "name": "Hanuman Shadow Master (2022)",
       "thumb": "https://myanmarsubmovie.com/wp-content/uploads/2022/11/hAG99uWgTIWEgYkDQ4cH9sNH3mq.jpg",
       "video": "https://download.myanmarsubmovie.com/wp-content/uploads/2022/2022/Movie 02/Hanuman Shadow Master/small/Hanuman Shadow Master.mp4",
+      "plot": "Hanuman Shadow Master (2022)",
       "genre": "Thai Movies"
     },
     {
       "name": "Daeng Phra Khanong (2022)",
       "thumb": "http://mycinema.asia/image//20220817/avatar_11529.jpg",
       "video": "http://media1.mycinema.asia/media/films/Daeng.Phra.Khanong.2022.360p/Daeng.Phra.Khanong.2022.360p.m3u8",
+      "plot": "Daeng Phra Khanong (2022)",
       "genre": "Thai Movies"
     },
     {
       "name": "Pee Nak 3 (2022)",
       "thumb": "http://mycinema.asia/image//20220809/avatar_11405.jpg",
       "video": "http://media1.mycinema.asia/media/films/Pee.Nak.3.2022.360p/Pee.Nak.3.2022.360p.m3u8",
+      "plot": "Pee Nak 3 (2022)",
       "genre": "Thai Movies"
     },
     {
       "name": "Cracked (2022)",
       "thumb": "http://mycinema.asia/image//20220712/avatar_11021.jpg",
       "video": "http://media1.mycinema.asia/media/films/Cracked.2022.360p/Cracked.2022.360p.m3u8",
+      "plot": "Cracked (2022)",
       "genre": "Thai Movies"
     },
     {
       "name": "AI Love You (2022)",
       "thumb": "http://mycinema.asia/image/avatar_9786.jpg",
       "video": "http://media1.mycinema.asia/media/films/AI.Love.You_2022/AI.Love.You_2022.m3u8",
+      "plot": "AI Love You (2022)",
       "genre": "Thai Movies"
     }
   ],
@@ -531,114 +569,133 @@
       "name": "Batman and Superman: Battle of the Super Sons (2022)",
       "thumb": "http://mycinema.asia/image//20221018/avatar_12445.jpg",
       "video": "http://media1.mycinema.asia/media/films/Batman.and.Superman.Battle.of.the.Super.Sons.2022.360p/Batman.and.Superman.Battle.of.the.Super.Sons.2022.360p.m3u8",
+      "plot": "Batman and Superman: Battle of the Super Sons (2022)",
       "genre": "Cartoon Movies"
     },
     {
       "name": "Mia and Me: The Hero of Centopia (2022)",
       "thumb": "http://mycinema.asia/image//20221013/avatar_12341.jpg",
       "video": "http://media1.mycinema.asia/media/films/Mia.and.Me.The.Hero.of.Centopia.2022.360p/Mia.and.Me.The.Hero.of.Centopia.2022.360p.m3u8",
+      "plot": "Mia and Me: The Hero of Centopia (2022)",
       "genre": "Cartoon Movies"
     },
     {
       "name": "Mortal Kombat Legends: Snow Blind (2022)",
       "thumb": "http://mycinema.asia/image//20221006/avatar_12241.jpg",
       "video": "http://media1.mycinema.asia/media/films/Mortal.Kombat.Legends.Snow.Blind.2022.360p/Mortal.Kombat.Legends.Snow.Blind.2022.360p.m3u8",
+      "plot": "Mortal Kombat Legends: Snow Blind (2022)",
       "genre": "Cartoon Movies"
     },
     {
       "name": "Hotel Transylvania: Transformania (2022)",
       "thumb": "http://mycinema.asia/image//20220921/avatar_12001.jpg",
       "video": "http://media1.mycinema.asia/media/films/Hotel.Transylvania.4.Transformania.2022.360p/Hotel.Transylvania.4.Transformania.2022.360p.m3u8",
+      "plot": "Hotel Transylvania: Transformania (2022)",
       "genre": "Cartoon Movies"
     },
     {
       "name": "DC League of Super-Pets (2022)",
       "thumb": "http://mycinema.asia/image//20220906/avatar_11745.jpg",
       "video": "http://media1.mycinema.asia/media/films/DC.League.of.Super.Pets.2022.360p/DC.League.of.Super.Pets.2022.360p.m3u8",
+      "plot": "DC League of Super-Pets (2022)",
       "genre": "Cartoon Movies"
     },
     {
       "name": "Luck (2022)",
       "thumb": "http://mycinema.asia/image//20220823/avatar_11581.jpg",
       "video": "http://media1.mycinema.asia/media/films/Luck.2022.360p/Luck.2022.360p.m3u8",
+      "plot": "Luck (2022)",
       "genre": "Cartoon Movies"
     },
     {
       "name": "Green Lantern: Beware My Power (2022)",
       "thumb": "http://mycinema.asia/image//20220808/avatar_11384.jpg",
       "video": "http://media1.mycinema.asia/media/films/Green.Lantern.Beware.My.Power.2022.360p/Green.Lantern.Beware.My.Power.2022.360p.m3u8",
+      "plot": "Green Lantern: Beware My Power (2022)",
       "genre": "Cartoon Movies"
     },
     {
       "name": "Paws of Fury: The Legend of Hank (2022)",
       "thumb": "http://mycinema.asia/image//20220802/avatar_11301.jpg",
       "video": "http://media1.mycinema.asia/media/films/Paws.of.Fury.The.Legend.of.Hank.2022/Paws.of.Fury.The.Legend.of.Hank.2022.m3u8",
+      "plot": "Paws of Fury: The Legend of Hank (2022)",
       "genre": "Cartoon Movies"
     },
     {
       "name": "The Sea Beast (2022)",
       "thumb": "http://mycinema.asia/image//20220721/avatar_11125.jpg",
       "video": "http://media1.mycinema.asia/media/films/The.Sea.Beast.2022.360p/The.Sea.Beast.2022.360p.m3u8",
+      "plot": "The Sea Beast (2022)",
       "genre": "Cartoon Movies"
     },
     {
       "name": "Minions: The Rise of Gru (2022)",
       "thumb": "http://mycinema.asia/image//20220721/avatar_11121.jpg",
       "video": "http://media1.mycinema.asia/media/films/Minions.The.Rise.of.Gru.2022.360p/Minions.The.Rise.of.Gru.2022.360p.m3u8",
+      "plot": "Minions: The Rise of Gru (2022)",
       "genre": "Cartoon Movies"
     },
     {
       "name": "Lightyear (2022)",
       "thumb": "http://mycinema.asia/image//20220720/avatar_11107.jpg",
       "video": "http://media1.mycinema.asia/media/films/Lightyear.2022.360p/Lightyear.2022.360p.m3u8",
+      "plot": "Lightyear (2022)",
       "genre": "Cartoon Movies"
     },
     {
       "name": "Ella And The Little Sorcerer (2022)",
       "thumb": "http://mycinema.asia/image/avatar_10082.jpg",
       "video": "http://media1.mycinema.asia/media/films/Little.Sorcerer.2022.360P/Little.Sorcerer.2022.360P.m3u8",
+      "plot": "Ella And The Little Sorcerer (2022)",
       "genre": "Cartoon Movies"
     },
     {
       "name": "King Tweety (2022)",
       "thumb": "http://mycinema.asia/image//20220701/avatar_10881.jpg",
       "video": "http://media1.mycinema.asia/media/films/King.Tweety.2022.360p/King.Tweety.2022.360p.m3u8",
+      "plot": "King Tweety (2022)",
       "genre": "Cartoon Movies"
     },
     {
       "name": "Chip 'n Dale: Rescue Rangers (2022)",
       "thumb": "http://mycinema.asia/image//20220628/avatar_10822.jpg",
       "video": "http://media1.mycinema.asia/media/films/Chip.n.Dale.Rescue.Rangers.2022.360p/Chip.n.Dale.Rescue.Rangers.2022.360p.m3u8",
+      "plot": "Chip 'n Dale: Rescue Rangers (2022)",
       "genre": "Cartoon Movies"
     },
     {
       "name": "Marmaduke (2022)",
       "thumb": "http://mycinema.asia/image/avatar_10086.jpg",
       "video": "http://media1.mycinema.asia/media/films/Marmaduke.2022.360P/Marmaduke.2022.360P.m3u8",
+      "plot": "Marmaduke (2022)",
       "genre": "Cartoon Movies"
     },
     {
       "name": "The Bad Guys",
       "thumb": "http://mycinema.asia/image/avatar_9961.jpg",
       "video": "http://media1.mycinema.asia/media/films/The.Bad.Guys.2022.360p3/The.Bad.Guys.2022.360p3.m3u8",
+      "plot": "The Bad Guys",
       "genre": "Cartoon Movies"
     },
     {
       "name": "Constantine: The House of Mystery",
       "thumb": "http://mycinema.asia/image/avatar_9954.jpg",
       "video": "http://media1.mycinema.asia/media/films/Constantine.The.House.of.Mystery.2022.360p/Constantine.The.House.of.Mystery.2022.360p.m3u8",
+      "plot": "Constantine: The House of Mystery",
       "genre": "Cartoon Movies"
     },
     {
       "name": "Catwoman: Hunted",
       "thumb": "http://mycinema.asia/image/avatar_9404.jpg",
       "video": "http://media1.mycinema.asia/media/films/Catwoman.Hunted.2022/Catwoman.Hunted.2022.m3u8",
+      "plot": "Catwoman: Hunted",
       "genre": "Cartoon Movies"
     },
     {
       "name": "Monkey King Reborn",
       "thumb": "https://mycinema.asia/image/avatar_8781.jpg",
       "video": "http://media1.mycinema.asia/media/films/Monkey.King.Reborn.2021.360P/Monkey.King.Reborn.2021.360P.m3u8",
+      "plot": "Monkey King Reborn",
       "genre": "Cartoon Movies"
     }
   ],
@@ -647,6 +704,7 @@
       "name": "Satria Dewa: Gatotkaca (2022)",
       "thumb": "https://channelmyanmar.org/wp-content/uploads/2022/11/MV5BOWEzN2IxOTktMzBjMS00ZWU1LWI0OTgtZjViNWYxOWY1MjUxXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_.jpg",
       "video": "https://f13.megaup.net/19Tja/Satria.Dewa.Gatotkaca.2022.720p.NF.WEB-DL[CM].mp4?download_token=c27624f4df71af336352200df1527f5e2efad9119caf81441d85b7e813803106",
+      "plot": "Satria Dewa: Gatotkaca (2022)",
       "genre": "Other Movies"
     }
   ]
