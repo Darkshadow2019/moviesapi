@@ -605,7 +605,7 @@
       "plot": "AI Love You (2022)",
       "genre": "Thai Movies"
     },
-     {
+    {
       "name": "The Lost Lotteries(2022)",
       "thumb": "https://channelmyanmar.org/wp-content/uploads/2022/11/XnRKp_4f.jpg",
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/THAI/The.Lost.Lotteries.2022.mp4",
@@ -756,7 +756,7 @@
       "genre": "Action, Adventure, Drama",
       "plot": "IMDB: 6.2/10 Hanung Bramantyo"
     },
-     {
+    {
       "name": "Mat Kilau (2022)",
       "thumb": "http://mycinema.asia/image//20221114/avatar_12972.jpg",
       "video": "http://media1.mycinema.asia/media/films/Mat.Kilau.2022.360p/Mat.Kilau.2022.360p.m3u8",
@@ -764,7 +764,7 @@
       "plot": "IMDB 5.7 Adi Putra, Beto Kusyairy, Fattah Amin."
     }
   ],
-    "Sport Channels": [
+  "Sport Channels": [
     {
       "name": "Fight Sports 1",
       "thumb": "https://combatpress.com/wp-content/uploads/2016/04/BlachowiczMandelSherdog.jpg",
@@ -792,6 +792,15 @@
       "video": "http://azxp.azureedge.net/scripts/NjI4OA==/1080p.m3u8",
       "genre": "Formula One",
       "plot": "Formula One Sports Channel"
+    }
+  ],
+  "Music Channels": [
+    {
+      "name": "30A",
+      "thumb": "http://30amusicjaunt.com/wp-content/uploads/2016/11/30ajaunt.jpg",
+      "video": "",
+      "genre": "30A",
+      "plot": "USA Music Channel"
     }
   ]
 }
