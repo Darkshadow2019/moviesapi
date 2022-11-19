@@ -785,6 +785,13 @@
       "video": "https://sportsgrid-vizio.amagi.tv/playlist720p.m3u8",
       "genre": "Sports Grid",
       "plot": "Sports Grid Channel"
+    },
+    {
+      "name": "Formula One",
+      "thumb": "https://onestopracing.com/wp-content/uploads/2021/11/Is-F1-A-Sport-00.jpg",
+      "video": "http://azxp.azureedge.net/scripts/NjI4OA==/1080p.m3u8",
+      "genre": "Formula One",
+      "plot": "Formula One Sports Channel"
     }
   ]
 }
