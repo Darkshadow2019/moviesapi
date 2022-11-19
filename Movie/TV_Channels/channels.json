@@ -763,5 +763,21 @@
       "genre": "Malaysia.",
       "plot": "IMDB 5.7 Adi Putra, Beto Kusyairy, Fattah Amin."
     }
+  ],
+    "Sport Channels": [
+    {
+      "name": "Fight Sports",
+      "thumb": "https://combatpress.com/wp-content/uploads/2016/04/BlachowiczMandelSherdog.jpg",
+      "video": "https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8",
+      "genre": "Wild World of Fight",
+      "plot": "USA WWOF ( Wild World of Fight ) Channel"
+    },
+     {
+      "name": "Mat Kilau (2022)",
+      "thumb": "http://mycinema.asia/image//20221114/avatar_12972.jpg",
+      "video": "http://media1.mycinema.asia/media/films/Mat.Kilau.2022.360p/Mat.Kilau.2022.360p.m3u8",
+      "genre": "Malaysia.",
+      "plot": "IMDB 5.7 Adi Putra, Beto Kusyairy, Fattah Amin."
+    }
   ]
 }
