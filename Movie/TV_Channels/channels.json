@@ -330,6 +330,13 @@
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/Wanted.2008.mp4",
       "genre": "IMDB: 6.7/10 Action, Crime, Fancy",
       "plot": "Angelina Jolie, Common, David O'Hara, James McAvoy, Konstantin Khabenskiy, Kristen Hager, Marc Warren, Morgan Freeman, Terence Stamp |, Thomas Kretschmann"
+    },
+     {
+      "name": "Disenchanted (2022)",
+      "thumb": "https://image.tmdb.org/t/p/w185/4x3pt6hoLblBeHebUa4OyiVXFiM.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/Disenchanted.2022.mp4",
+      "genre": "IMDB: 6.2/10 Adventure, Animation, Comedy",
+      "plot": "Adam Shankman,Amy Adams, Maya Rudolph, Patrick Dempsey"
     }
   ],
   "Bollywood Movies": [
