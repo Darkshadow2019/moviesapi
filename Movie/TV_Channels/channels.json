@@ -766,18 +766,18 @@
   ],
     "Sport Channels": [
     {
-      "name": "Fight Sports",
+      "name": "Fight Sports 1",
       "thumb": "https://combatpress.com/wp-content/uploads/2016/04/BlachowiczMandelSherdog.jpg",
       "video": "https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_4.m3u8",
       "genre": "Wild World of Fight",
       "plot": "USA WWOF ( Wild World of Fight ) Channel"
     },
      {
-      "name": "Mat Kilau (2022)",
-      "thumb": "http://mycinema.asia/image//20221114/avatar_12972.jpg",
-      "video": "http://media1.mycinema.asia/media/films/Mat.Kilau.2022.360p/Mat.Kilau.2022.360p.m3u8",
-      "genre": "Malaysia.",
-      "plot": "IMDB 5.7 Adi Putra, Beto Kusyairy, Fattah Amin."
+      "name": "Fight Sports 2",
+      "thumb": "https://is4-ssl.mzstatic.com/image/thumb/Ex533hAbRufuM6Nx-Iym4w/1200x675mf.jpg",
+      "video": "https://a.jsrdn.com/broadcast/47cff5378f/+0000/low/c.m3u8",
+      "genre": "Fighting Spirit",
+      "plot": "USA Fighting Spirit Channel"
     }
   ]
 }
