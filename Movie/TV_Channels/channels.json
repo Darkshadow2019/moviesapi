@@ -772,12 +772,19 @@
       "genre": "Wild World of Fight",
       "plot": "USA WWOF ( Wild World of Fight ) Channel"
     },
-     {
+    {
       "name": "Fight Sports 2",
       "thumb": "https://is4-ssl.mzstatic.com/image/thumb/Ex533hAbRufuM6Nx-Iym4w/1200x675mf.jpg",
       "video": "https://a.jsrdn.com/broadcast/47cff5378f/+0000/low/c.m3u8",
       "genre": "Fighting Spirit",
-      "plot": "USA Fighting Spirit Channel"
+      "plot": "Fighting Spirit Channel"
+    },
+    {
+      "name": "Fight Sports 3",
+      "thumb": "https://www.sportstribal.tv/home/wp-content/uploads/2022/08/sportsgrid.png",
+      "video": "https://sportsgrid-vizio.amagi.tv/playlist720p.m3u8",
+      "genre": "Sports Grid",
+      "plot": "Sports Grid Channel"
     }
   ]
 }
