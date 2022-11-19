@@ -786,14 +786,5 @@
       "genre": "Sports Grid",
       "plot": "Sports Grid Channel"
     }
-  ],
-  "Music Channels": [
-    {
-      "name": "1HD Music",
-      "thumb": "http://30amusicjaunt.com/wp-content/uploads/2016/11/30ajaunt.jpg",
-      "video": "http://premium.exabytetv.info/gc/10011000110010110110110010100100101-ExabyteTV/1603/exabytetv.m3u8",
-      "genre": "1HD Music Televation",
-      "plot": "USA Music Channel"
-    }
   ]
 }
