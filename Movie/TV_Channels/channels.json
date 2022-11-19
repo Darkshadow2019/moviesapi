@@ -785,21 +785,14 @@
       "video": "https://sportsgrid-vizio.amagi.tv/playlist720p.m3u8",
       "genre": "Sports Grid",
       "plot": "Sports Grid Channel"
-    },
-    {
-      "name": "Formula One",
-      "thumb": "https://onestopracing.com/wp-content/uploads/2021/11/Is-F1-A-Sport-00.jpg",
-      "video": "http://azxp.azureedge.net/scripts/NjI4OA==/1080p.m3u8",
-      "genre": "Formula One",
-      "plot": "Formula One Sports Channel"
     }
   ],
   "Music Channels": [
     {
-      "name": "30A",
+      "name": "1HD Music",
       "thumb": "http://30amusicjaunt.com/wp-content/uploads/2016/11/30ajaunt.jpg",
-      "video": "https://list.iptvcat.com/my_list/s/d2afc8d0785f713c63bdb337cf5f23a6.m3u8",
-      "genre": "30A",
+      "video": "https://iptv-org.github.io/iptv/categories/music.m3u",
+      "genre": "1HD Music Televation",
       "plot": "USA Music Channel"
     }
   ]
