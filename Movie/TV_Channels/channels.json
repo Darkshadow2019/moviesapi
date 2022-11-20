@@ -337,6 +337,13 @@
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/Disenchanted.2022.mp4",
       "genre": "IMDB: 6.2/10 Adventure, Animation, Comedy",
       "plot": "Adam Shankman,Amy Adams, Maya Rudolph, Patrick Dempsey"
+    },
+    {
+      "name": "Slumberland (2022)",
+      "thumb": "https://image.tmdb.org/t/p/w185/tfae1vtjzlE73DPJGlHq88sZKX3.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/Slumberland.2022.mp4",
+      "genre": "IMDB: 6.6/10 Adventure, Comedy, Family",
+      "plot": "Chris O'Dowd, Jason Momoa, Marlow Barkley"
     }
   ],
   "Bollywood Movies": [
