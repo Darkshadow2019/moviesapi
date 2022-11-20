@@ -590,6 +590,24 @@
       "genre": "Korea Movies"
     }
   ],
+  "Japan Movies": [
+    {
+      "name": "The Violence Action (2022)",
+      "thumb": "https://image.tmdb.org/t/p/w185/gRtOX9CNOFDsn3D2l5v4nxI08VQ.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/JAPAN/The.Violence.Action.2022.mp4",
+      "genre": "IMDB: 5/10 Action, Drama",
+      "plot": "Fumika Baba, Kanna Hashimoto, Shunsuke Daitô"
+      
+    },
+      {
+      "name": "Shin Ultraman (2022)",
+      "thumb": "https://channelmyanmar.org/wp-content/uploads/2022/11/MV5BNTIyNDAzMGQtYmQ0YS00OWE2LWJjZjgtY2M3NmU4YmYxMDQ5XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/JAPAN/Shin.Ultraman.2022.mp4",
+      "genre": "IMDB: 6.6 Action, Adventure, Asian, Drama, Sci-Fi",
+      "plot": "Shin Ultraman (2022)"
+      
+    }
+  ],
   "Thai Movies": [
     {
       "name": "Hanuman Shadow Master (2022)",
