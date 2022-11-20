@@ -344,6 +344,13 @@
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/Slumberland.2022.mp4",
       "genre": "IMDB: 6.6/10 Adventure, Comedy, Family",
       "plot": "Chris O'Dowd, Jason Momoa, Marlow Barkley"
+    },
+     {
+      "name": "Blade of the 47 Ronin (2022)",
+      "thumb": "https://image.tmdb.org/t/p/w185/kjFDIlUCJkcpFxYKtE6OsGcAfQQ.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/Blade.of.the.47.Ronin.2022.mp4",
+      "genre": "Action, Drama, Fantasy",
+      "plot": "The Blade of the 47 Ronin"
     }
   ],
   "Bollywood Movies": [
