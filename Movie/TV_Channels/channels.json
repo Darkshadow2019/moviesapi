@@ -488,6 +488,14 @@
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/CHINA/Revenge.Girl.mp4",
       "plot": "Revenge Girl(2022)",
       "genre": "Chinese Movies"
+    },
+    {
+      "name": "Coffin Mountain Ancient Tomb (2022)",
+      "thumb": "https://image.tmdb.org/t/p/w185/zVJXBo0KtdntnGfUoLafGCgy2nF.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/CHINA/Coffin.Mountain.Ancient.Tomb.2022.mp4",
+      "genre": "IMDB: 6.3 Adventure, Fantasy",
+      "plot": "Coffin Mountain Ancient Tomb (2022)"
+      
     }
   ],
   "Korea Movies": [
