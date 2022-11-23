@@ -331,7 +331,7 @@
       "genre": "IMDB: 6.7/10 Action, Crime, Fancy",
       "plot": "Angelina Jolie, Common, David O'Hara, James McAvoy, Konstantin Khabenskiy, Kristen Hager, Marc Warren, Morgan Freeman, Terence Stamp |, Thomas Kretschmann"
     },
-     {
+    {
       "name": "Disenchanted (2022)",
       "thumb": "https://image.tmdb.org/t/p/w185/4x3pt6hoLblBeHebUa4OyiVXFiM.jpg",
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/Disenchanted.2022.mp4",
@@ -345,7 +345,7 @@
       "genre": "IMDB: 6.6/10 Adventure, Comedy, Family",
       "plot": "Chris O'Dowd, Jason Momoa, Marlow Barkley"
     },
-     {
+    {
       "name": "Blade of the 47 Ronin (2022)",
       "thumb": "https://image.tmdb.org/t/p/w185/kjFDIlUCJkcpFxYKtE6OsGcAfQQ.jpg",
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/Blade.of.the.47.Ronin.2022.mp4",
@@ -400,6 +400,13 @@
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/Harry_Potter/07.Harry Potter And The Deathly Hallows - Part 1 [2010].mp4",
       "genre": "English Adventure, Family, Fantasy",
       "plot": "IMDB: 7.7 Alan Rickman, Daniel Radcliffe, Emma Watson, Ian Hart, Maggie Smith, Richard Griffiths, Richard Harris, Robbie Coltrane, Rupert Grint, Tom Felton"
+    },
+    {
+      "name": "08.Harry Potter and The Deathly Hallows: Part 2 (2011)",
+      "thumb": "https://channelmyanmar.org/wp-content/uploads/2017/12/MV5BMjIyZGU4YzUtNDkzYi00ZDRhLTljYzctYTMxMDQ4M2E0Y2YxXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX667_CR00667999_AL_.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/Harry_Potter/08.Harry Potter And The Deathly Hallows - Part 2 [2010].mp4",
+      "genre": "English Adventure, Family, Fantasy",
+      "plot": "IMDB: 8.1 Alan Rickman, Daniel Radcliffe, Emma Watson, Ian Hart, Maggie Smith, Richard Griffiths, Richard Harris, Robbie Coltrane, Rupert Grint, Tom Felton"
     }
   ],
   "Bollywood Movies": [
@@ -544,7 +551,6 @@
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/CHINA/Coffin.Mountain.Ancient.Tomb.2022.mp4",
       "genre": "IMDB: 6.3 Adventure, Fantasy",
       "plot": "Coffin Mountain Ancient Tomb (2022)"
-      
     },
     {
       "name": "Yin and Yang Painted Skin (2022)",
@@ -552,7 +558,6 @@
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/CHINA/Yin.Yang.Painted.Skin.2022.mp4",
       "genre": "Chinese Action, Fantasy",
       "plot": "IMDB: 6/10 Ben Ng, Clara Lee, DU Shuai, Du Yuchen, Li Muyun, Liang Zhigang, Sun Jiaolong"
-      
     }
   ],
   "Korea Movies": [
@@ -662,15 +667,13 @@
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/JAPAN/The.Violence.Action.2022.mp4",
       "genre": "IMDB: 5/10 Action, Drama",
       "plot": "Fumika Baba, Kanna Hashimoto, Shunsuke Daitô"
-      
     },
-      {
+    {
       "name": "Shin Ultraman (2022)",
       "thumb": "https://channelmyanmar.org/wp-content/uploads/2022/11/MV5BNTIyNDAzMGQtYmQ0YS00OWE2LWJjZjgtY2M3NmU4YmYxMDQ5XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/JAPAN/Shin.Ultraman.2022.mp4",
       "genre": "IMDB: 6.6 Action, Adventure, Asian, Drama, Sci-Fi",
       "plot": "Shin Ultraman (2022)"
-      
     }
   ],
   "Thai Movies": [
