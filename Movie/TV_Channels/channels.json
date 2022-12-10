@@ -407,6 +407,13 @@
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/Harry_Potter/08.Harry Potter And The Deathly Hallows - Part 2 [2010].mp4",
       "genre": "English Adventure, Family, Fantasy",
       "plot": "IMDB: 8.1 Alan Rickman, Daniel Radcliffe, Emma Watson, Ian Hart, Maggie Smith, Richard Griffiths, Richard Harris, Robbie Coltrane, Rupert Grint, Tom Felton"
+    },
+    {
+      "name": "Troll (2022)",
+      "thumb": "https://image.tmdb.org/t/p/w185/tyv3iU87q5IdTAUVLWJeILJ4Cyf.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/Troll.2022.mp4",
+      "genre": "English Action, Adventure, Drama",
+      "plot": "IMDB: 6.8 Ine Marie Wilmann, Kim Falck, Mads Sjøgård Pettersen"
     }
   ],
   "Bollywood Movies": [
