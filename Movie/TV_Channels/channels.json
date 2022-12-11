@@ -693,6 +693,13 @@
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/KOREA/Project.Wolf.Hunting.mp4",
       "plot": "Project Wolf Hunting (2022)",
       "genre": "Korea Movies"
+    },
+    {
+      "name": "Oh! My Ghost (2022)",
+      "thumb": "https://image.tmdb.org/t/p/w185/4V27PCQ0mlVkyJ7cmL7yzHwH5lz.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/KOREA/Oh.My.Ghost.2022.mp4",
+      "genre": "Korea Mystery",
+      "plot": "IMDB: 5/10 South Korea"    
     }
   ],
   "Japan Movies": [
