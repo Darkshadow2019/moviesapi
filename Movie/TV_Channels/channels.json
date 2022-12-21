@@ -491,6 +491,13 @@
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/Mindcage.2022.mp4",
       "genre": "English  Thriller",
       "plot": "IMDB: 4.9 John Malkovich, Martin Lawrence, Melissa Roxburgh"
+    },
+    {
+      "name": "Violent Night (2022)",
+      "thumb": "https://channelmyanmar.org/wp-content/uploads/2022/12/MV5BYzg2NWNhOWItYjA3Yi00MzhhLTg4ZmItYzM3ZTIwN2U0ZGQ5XkEyXkFqcGdeQXVyMzEyMDQzNzY@._V1_FMjpg_UX1000_.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/Violent.Night.2022.mp4",
+      "genre": "English  Action",
+      "plot": "David Harbour"
     }
   ],
   "Bollywood Movies": [
@@ -656,6 +663,13 @@
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/CHINA/Yin.Yang.Painted.Skin.2022.mp4",
       "genre": "Chinese Action, Fantasy",
       "plot": "IMDB: 6/10 Ben Ng, Clara Lee, DU Shuai, Du Yuchen, Li Muyun, Liang Zhigang, Sun Jiaolong"
+    },
+    {
+      "name": "Mountain Porter (2022)",
+      "thumb": "https://image.tmdb.org/t/p/w185/zlnOqIJWjfp6MCUg5d9gFduW9lJ.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/CHINA/Mountain.Porter.2022.mp4",
+      "genre": "Chinese Action, Adventure, Thriller",
+      "plot": "IMDB: 6.1 He Hongshan, Tong Lei, Xing Hanqing, Yuan Fufu, Zhou Xiaoou"
     }
   ],
   "Korea Movies": [
@@ -764,7 +778,14 @@
       "genre": "Korea Mystery",
       "plot": "IMDB: 5/10 South Korea"
     },
-   {
+    {
+      "name": "The Distributors (2022)",
+      "thumb": "https://image.tmdb.org/t/p/w185/yc3O913QYEz87eeKqOyrlLc31vD.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/KOREA/The.Distributors.2022.mp4",
+      "genre": "Korea Thriller",
+      "plot": "IMDB: 6.5 Kim So-eun, Park Sung-hoon, Song Jin-woo"
+    },
+    {
       "name": "The Distributors (2022)",
       "thumb": "https://image.tmdb.org/t/p/w185/yc3O913QYEz87eeKqOyrlLc31vD.jpg",
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/KOREA/The.Distributors.2022.mp4",
@@ -821,6 +842,13 @@
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/JAPAN/Yakuza.Apocalypse.2015.mp4",
       "genre": "Japan Action, Comedy, Crime, Horror",
       "plot": "IMDB: 5.5 Denden, Hayato Ichihara, Kiyohiko Shibukawa, Lily Franky, Makoto Sakaguchi, Manzô Shinra, Masaki Miura, Masanori Mimoto, Mio Yuki, Pierre Taki, Reiko Takashima, Riko Narumi, Ryushin Tei, Shô Aoyagi, Tetsu Watanabe, Yasuhi Nakamura, Yayan Ruhian, Yoko Mitsuya, Yoshiki Arizono, Yoshiyuki Morishita, Yuki Sakurai"
+    },
+    {
+      "name": "The Top Secret: Murder in Mind (2016)",
+      "thumb": "https://channelmyanmar.org/wp-content/uploads/2022/11/MV5BZWIxZTFiMTctZWJmYy00MjI0LWJiODYtODZkZDM0ODRkZDAxXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/JAPAN/The.Top.Secret.Murder.in.Mind.2016.mp4",
+      "genre": "Japan Action, Comedy, Crime, Horror",
+      "plot": "IMDB: 5.4 Ayumu Mochizuki, Chiaki Kuriyama, Koji Kikkawa, Lisa Oda, Masaki Okada, Nao Omori, Toma Ikuta, Tori Matsuzaka"
     }
   ],
   "Thai Movies": [
