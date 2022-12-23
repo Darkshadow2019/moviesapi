@@ -512,6 +512,13 @@
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/The.Ash.Lad.In.the.Hall.of.the.Mountain.King.2017.mp4",
       "genre": "English  Adventure, Fantasy",
       "plot": "IMDB: 6.5 Elias Holmen Sørensen, Mads Sjøgård Pettersen, Vebjørn Enger"
+    },
+    {
+      "name": "Plebs: Soldiers of Rome (2022)",
+      "thumb": "https://image.tmdb.org/t/p/w185/oAtVkxPXUAkCKjeNZ3vcEFmSBms.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/Plebs-Soldiers.of.Rome.2022.mp4",
+      "genre": "English Adventure, Comedy, War",
+      "plot": "IMDB: 6.5 Ellie Haddington, Gary Beadle, Joe Thomas, Jonathan Pointing, Karl Theobald, Mariam Haque, Ryan Sampson, Tom Basden, Tom Moutchi, Tom Rosenthal, Tori Allen-Martin"
     }
   ],
   "Bollywood Movies": [
@@ -1058,6 +1065,13 @@
       "video": "http://media1.mycinema.asia/media/films/Mat.Kilau.2022.360p/Mat.Kilau.2022.360p.m3u8",
       "genre": "Malaysia.",
       "plot": "IMDB 5.7 Adi Putra, Beto Kusyairy, Fattah Amin."
+    },
+    {
+      "name": "Ghost Writer 2 (2022)",
+      "thumb": "https://image.tmdb.org/t/p/w185/svU6MwHMdLt5K7IiMGR4mspi94V.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/OTHER/Ghost.Writer.2022.mp4",
+      "genre": "Indonesia Comedy, Drama, Horror",
+      "plot": "IMDB 7.4 Deva Mahenra, Tatjana Saphira, Widyawati"
     }
   ],
   "Sport Channels": [
