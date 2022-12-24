@@ -705,6 +705,13 @@
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/CHINA/Mountain.Porter.2022.mp4",
       "genre": "Chinese Action, Adventure, Thriller",
       "plot": "IMDB: 6.1 He Hongshan, Tong Lei, Xing Hanqing, Yuan Fufu, Zhou Xiaoou"
+    },
+    {
+      "name": "Demon Catcher 2 (2022)",
+      "thumb": "https://image.tmdb.org/t/p/w185/njEyGAzWqAGixP32wzuz8zcQZGL.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/CHINA/Demon.Catcher2.2022.mp4",
+      "genre": "Chinese Action",
+      "plot": "IMDB: 6.1 Eric Wan, Huang Meimei, Lang Feng, Lin Fengye, Liu Tianzuo, Xie Ning, Yue Dongfeng"
     }
   ],
   "Korea Movies": [
@@ -877,6 +884,13 @@
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/JAPAN/The.Top.Secret.Murder.in.Mind.2016.mp4",
       "genre": "Japan Action, Comedy, Crime, Horror",
       "plot": "IMDB: 5.4 Ayumu Mochizuki, Chiaki Kuriyama, Koji Kikkawa, Lisa Oda, Masaki Okada, Nao Omori, Toma Ikuta, Tori Matsuzaka"
+    },
+    {
+      "name": "Hell Dogs (2022)",
+      "thumb": "https://image.tmdb.org/t/p/w185/9qD4IBWMqIX3hitHucj6FvrKwxe.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/JAPAN/Hell.Dogs.2022.mp4",
+      "genre": "Japan Action, Comedy, Crime, Horror",
+      "plot": "IMDB: 6.3 Jun'ichi Okada, Kentarô Sakaguchi, Mayu Matsuoka"
     }
   ],
   "Thai Movies": [
