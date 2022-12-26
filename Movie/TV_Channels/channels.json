@@ -533,6 +533,20 @@
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/A.Baby.at.Any.Cost.2022.mp4",
       "genre": "English Thriller",
       "plot": "IMDB: 5.6 Tamar Halpern"
+    },
+	{
+      "name": "Carrie (2013)",
+      "thumb": "https://channelmyanmar.org/wp-content/uploads/2018/01/MV5BODg2MDU2MjYxNl5BMl5BanBnXkFtZTcwMDQ5MzU0OQ@@._V1_.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/Carrie.2013.mp4",
+      "genre": "English Drama, Horror",
+      "plot": "IMDB: 5.9 Alex Russell, Ansel Elgort, Chloë Grace Moretz, Connor Price, Cynthia Preston, Gabriella Wilde, Judy Greer, Julianne Moore, Karissa Strain, Katie Strain, Max Topplin, Portia Doubleday, Samantha Weinstein, Zoë Belkin"
+    },
+	{
+      "name": "Anti Matter (2016)",
+      "thumb": "https://channelmyanmar.org/wp-content/uploads/2017/09/MV5BMjEyODcwNDk4OV5BMl5BanBnXkFtZTgwNzcwMjgxMzI@._V1_SX708_CR00708999_AL_.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/Anti.Matter.2016.mp4",
+      "genre": "English Mystery",
+      "plot": "IMDB: 6.6 Casey Lawler, Harrie Hayes, James Farrar, Noah Maxwell Clarke, Philippa Carson, Tom Barber-Duffy, Yolanda Vazquez"
     }
   ],
   "Bollywood Movies": [
