@@ -10,7 +10,7 @@
     {
       "name": "DVB",
       "thumb": "https://pbs.twimg.com/profile_images/923775706235936770/yquoiGtX_400x400.jpg",
-      "video": "https://stream-01.sg1.dailymotion.com/sec(Fpdg9PMCCI6ZZV-w0AWDx2GgIVYAJgizmy0A42XxwM9SOIcEnkGloX0FInB1DvZE)/dm/3/x8fz8mm/s/live-0.m3u8",
+      "video": "https://stream-04.sg1.dailymotion.com/sec(Fpdg9PMCCI6ZZV-w0AWDx2GgIVYAJgizmy0A42XxwM9SOIcEnkGloX0FInB1DvZE)/dm/3/x8fz8mm/s/live-0.m3u8#cell=lsg1",
       "plot": "DVB Channel",
       "genre": "TV Channels"
     },
@@ -499,14 +499,14 @@
       "genre": "English  Action",
       "plot": "David Harbour"
     },
-     {
+    {
       "name": "Troll Hunter (2010)",
       "thumb": "https://channelmyanmar.org/wp-content/uploads/2022/12/insert-t.jpg",
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/TrollHunter.2010.mp4",
       "genre": "English  Drama, Fantasy, Horror",
       "plot": "IMDB: 6.9"
     },
-     {
+    {
       "name": "The Ash Lad: In the Hall of the Mountain King(2017)",
       "thumb": "https://image.tmdb.org/t/p/w185/uyJEfpAflLCkqn6PFHu9EHxmbI6.jpg",
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/The.Ash.Lad.In.the.Hall.of.the.Mountain.King.2017.mp4",
@@ -520,7 +520,7 @@
       "genre": "English Adventure, Comedy, War",
       "plot": "IMDB: 6.5 Ellie Haddington, Gary Beadle, Joe Thomas, Jonathan Pointing, Karl Theobald, Mariam Haque, Ryan Sampson, Tom Basden, Tom Moutchi, Tom Rosenthal, Tori Allen-Martin"
     },
-	{
+    {
       "name": "Darby and the Dead (2022)",
       "thumb": "https://channelmyanmar.org/wp-content/uploads/2022/12/MV5BNDIzMzE0NGUtZGVmYy00MzYxLTlhOWEtYmY1MTE3ZjEwZTUwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_FMjpg_UX1000_.jpg",
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/Darby.and.the.Dead.2022.mp4",
@@ -585,7 +585,7 @@
       "genre": "Bollywood Action, Bollywood, Drama, War",
       "plot": "IMDB: 7.8 Amruta Khanvilkar, Ashok Shinde, Hardik Joshi, Kishore Kadam, Milind Shinde, Mohan Joshi, Nishigandha Wad, Sayali Sanjeev, Sharad Kelkar, Sharad Ponkshe, Subodh Bhave"
     },
-     {
+    {
       "name": "DJ: Duvvada Jagannadham (2017)",
       "thumb": "https://channelmyanmar.org/wp-content/uploads/2022/11/MV5BNTY0NGIzN2EtNzFjMi00NDkyLWE0ODItZjNhNmY1YjAyOThlXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_-scaled.jpg",
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/INDIA/DJ-Duvvada.Jagannadham.2017.mp4",
