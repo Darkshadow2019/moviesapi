@@ -547,6 +547,20 @@
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/Anti.Matter.2016.mp4",
       "genre": "English Mystery",
       "plot": "IMDB: 6.6 Casey Lawler, Harrie Hayes, James Farrar, Noah Maxwell Clarke, Philippa Carson, Tom Barber-Duffy, Yolanda Vazquez"
+    },
+	{
+      "name": "Witch Hunt (2021)",
+      "thumb": "https://channelmyanmar.org/wp-content/uploads/2022/12/MV5BYjAzYmQ3MjQtOTE4NC00MTc5LWE2OWMtNjMyY2JlN2E1MTJmXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_FMjpg_UX1000_.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/Witch.Hunt.2021.mp4",
+      "genre": "English Fantasy, Horror, Thriller",
+      "plot": "IMDB: 4.7 Elle Callahan"
+    },
+	{
+      "name": "Mad Heidi (2022)",
+      "thumb": "https://image.tmdb.org/t/p/w185/wA0ZX8BC6AB6IimmKyMWT0PzUov.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/Mad.Heidi.2022.mp4",
+      "genre": "Switzerland Action, Adventure, Comedy",
+      "plot": "IMDB: 6.1 Alice Lucy, Casper Van Dien, Max Rüdlinger"
     }
   ],
   "Bollywood Movies": [
