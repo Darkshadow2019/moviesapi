@@ -575,6 +575,13 @@
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/Abraham.Lincoln.Vampire.Hunter.2012.mp4",
       "genre": "English Action, Fantasy, Horror, Uncategorized",
       "plot": "IMDB: 5.9 Benjamin Walker, Dominic Cooper, Rufus Sewell"
+    },
+	{
+      "name": "Lullaby(2022)",
+      "thumb": "https://channelmyanmar.org/wp-content/uploads/2022/12/MV5BMWE0M2YyM2MtOThhOS00N2ZiLThkYzktZjI3ZjA0MzA5YWJjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/Lullaby.2022.mp4",
+      "genre": "English Horror",
+      "plot": "IMDB: 5.2 Adam Bernett, Austin Ball, Brian McCaig, Hayden Finkelshtain, Kira Guloien, Liane Balaban, Mark Reinhardt, Moni Ogunsuyi, Oona Chaplin, Ramón Rodríguez, Sasha Rajamani"
     }
   ],
   "Bollywood Movies": [
@@ -654,6 +661,13 @@
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/INDIA/Butterfly.2022.mp4",
       "genre": "Bollywood Mystery, Thriller",
       "plot": "IMDB: 7.2 Anupama Parameswaran, Bhumika Chawla, Nihal Kodhaty"
+    },
+	{
+      "name": "Drishyam 2 (2022)",
+      "thumb": "https://channelmyanmar.org/wp-content/uploads/2022/12/MV5BYmY2ZDUxNzUtYWZlYy00MThhLWI5NjktZDhjZTU3MDY5YTM3XkEyXkFqcGdeQXVyNTYxMDgzODI@._V1_.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/INDIA/Drishyam2.2022.mp4",
+      "genre": "Bollywood Crime, Drama, Thriller",
+      "plot": "IMDB: 8.6 Ajay Devgn, Akshaye Khanna, Ishita Dutta, Mrunal Jadhav, Rajat Kapoor, Shriya Saran, Tabu"
     }
   ],
   "Chinese Movies": [
@@ -803,6 +817,20 @@
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/CHINA/Blasting.2022.mp4",
       "genre": "Chinese Action, Crime",
       "plot": "IMDB: 6.1 Bai Haitao, Leni Lan, Tat-Wah Lok, Zhong Lei"
+    },
+	{
+      "name": "The Female General Fan Lihua (2022)",
+      "thumb": "https://image.tmdb.org/t/p/w185/wRfP0MPGaLNCWyQkWJI1rfjeVjS.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/CHINA/The.Female.General.Fan.Lihua.2022.mp4",
+      "genre": "Chinese Action, Fantasy",
+      "plot": "IMDB: 5.9 Chen Yiming, Dehui Zhang, Do Yuming, Li Weikang, Zhao Tieying, Zhimo Feng, Zhu Zhiling"
+    },
+	{
+      "name": "King Of Hotpot (2022)",
+      "thumb": "https://image.tmdb.org/t/p/w185/zcdtY0xMBCL2hSCrK7e6FqtbeYf.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/CHINA/King.Of.Hotpot.2022.mp4",
+      "genre": "Chinese Comedy",
+      "plot": "IMDB: 6.0 Bai Kainan, Fu Mei, Guo Xiangpeng, Huang Chengcheng, Jie Bing"
     }
   ],
   "Korea Movies": [
@@ -1047,6 +1075,13 @@
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/THAI/The.Lost.Lotteries.2022.mp4",
       "genre": "Comedy, Crime",
       "plot": "IMDB: 5.5/10 Anusorn Pinyopojanee, Kanaphan Puitrakul, Napapa Tantrakul, Padung Songsang, Phantira Pipityakorn, Somjit Jongjohor, Somyos Matures, Sutthirak Subvijitra, Thanaporn Wagprayoon, Tinnagorn Srisawat, Torpong Kul-On, Wongravee Nateetorn"
+    },
+	{
+      "name": "Six Characters (2022)",
+      "thumb": "https://channelmyanmar.org/wp-content/uploads/2022/12/MV5BZmMzNjdkZDktMDBlMC00NTgyLThkMjEtYWU2ZDk5MGUwMDA3XkEyXkFqcGdeQXVyNTE4NDk0NQ@@._V1_FMjpg_UX1000_.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/THAI/SixCharacters.2022.mp4",
+      "genre": "Thai Drama, Mystery, Thriller",
+      "plot": "IMDB: 7.7 Chaiyapol Pupart, Flora Massaro, Jiravich Pongpaijit, Khemanit Jamikorn, Kitti Cheawwongkul, Mario Maurer, Natapohn Tameeruks, Pakapon Tanphanich, Pakorn Chatborirak, Pimdao Panichsamai, Piya Sawetpikul, Pongpat Wachirabunjong, Rasee Diskul Na Ayudhaya, Rudklao Amratisha, Sakrat Ruekthamrong, Shuashard Vongsawad, Sotthibandhu Komeluecha, Taksaorn Paksukcharern, Thanya Wachirabunjong, Varot Makaduangkeo"
     }
   ],
   "Cartoon Movies": [
@@ -1182,6 +1217,13 @@
       "video": "http://media1.mycinema.asia/media/films/Monkey.King.Reborn.2021.360P/Monkey.King.Reborn.2021.360P.m3u8",
       "plot": "Monkey King Reborn",
       "genre": "Cartoon Movies"
+    },
+	{
+      "name": "The Boy, the Mole, the Fox and the Horse (2022)",
+      "thumb": "https://channelmyanmar.org/wp-content/uploads/2022/12/The-Boy-the-Mole-the-Fox-and-the-Horse-2022-Dual-Audio-310x440-1.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/Cartoon/The.Boy.the.Mole.the.Fox.and.the.Horse.2022.mp4",
+	  "genre": "Cartoon Animation, Family",
+      "plot": "IMDB: 8.0 Charlie Mackesy, Peter Baynton" 
     }
   ],
   "Other Movies": [
