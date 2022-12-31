@@ -559,8 +559,15 @@
       "name": "Mad Heidi (2022)",
       "thumb": "https://image.tmdb.org/t/p/w185/wA0ZX8BC6AB6IimmKyMWT0PzUov.jpg",
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/Mad.Heidi.2022.mp4",
-      "genre": "Switzerland Action, Adventure, Comedy",
+      "genre": "English Action, Drama, Fantasy",
       "plot": "IMDB: 6.1 Alice Lucy, Casper Van Dien, Max Rüdlinger"
+    },
+	{
+      "name": "Exodus: Gods and Kings (2014)",
+      "thumb": "https://channelmyanmar.org/wp-content/uploads/2019/01/exodus-poster-1-scaled.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/Exodus-Gods_And_Kings.2014.mp4",
+      "genre": "Switzerland Action, Adventure, Comedy",
+      "plot": "IMDB: 6.0 Aaron Paul, Ben Kingsley, Ben Mendelsohn, Christian Bale, Hiam Abbass, Isaac Andrews, Joel Edgerton, John Turturro, María Valverde, Sigourney Weaver"
     }
   ],
   "Bollywood Movies": [
@@ -896,6 +903,13 @@
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/KOREA/The.Distributors.2022.mp4",
       "genre": "Korea Thriller",
       "plot": "IMDB: 6.5 Kim So-eun, Park Sung-hoon, Song Jin-woo"
+    },
+	{
+      "name": "Men of Plastic (2022)",
+      "thumb": "https://image.tmdb.org/t/p/w185/6QXfrZWYS5cPlmNsIhpofW5R3ct.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/KOREA/Men.of.Plastic.2022.mp4",
+      "genre": "Korea Comedy, Drama",
+      "plot": "IMDB: 8.0 Jung Kyung-ho, Ma Dong-seok, Na-ra Oh"
     }
   ],
   "Japan Movies": [
