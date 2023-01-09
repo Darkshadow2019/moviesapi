@@ -603,6 +603,20 @@
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/The.Menu.2022.mp4",
       "genre": "English Comedy, Horror, Thriller",
       "plot": "IMDB 7.5 A. Jae Michele, Adam Aalderks, Aimee Carrero, Alexander Goldstein, Anya Taylor-Joy, Arturo Castro, Brandon Herron, Christina Brucato, Cristian Gonzalez, Elbert Kim, Grant Henley, Hong Chau, Janet McTeer, Jay Shadix, John Cola, John Leguizamo, John Wilkins III, Jon Paul Allyn, Judith Light, Marcus Aveons Duncan, Mark St. Cyr, Matthew Cornwell, Mel Fair, Melisa Lopez, Michael A. Dean, Nicholas Hoult, Paul Adelstein, Peter Grosz, Rachel Trautmann, Ralph Fiennes, Rebecca Koon, Reed Birney, Rob Yang, Victor Zheng"
+    },
+	{
+      "name": "Devotion (2023)",
+      "thumb": "https://image.tmdb.org/t/p/w185/26yQPXymbWeCLKwcmyL8dRjAzth.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2023/ENG/Devotion.2022.mp4",
+      "genre": "English Action, Drama, War",
+      "plot": "IMDB 7.0 6 January 2023"
+    },
+	{
+      "name": "Good Night Oppy (2022)",
+      "thumb": "https://image.tmdb.org/t/p/w185/7DTWN79hsN5AZEhW8w4SOquSI4D.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/ENG/Good.Night.Oppy.2022.mp4",
+      "genre": "English Documentary",
+      "plot": "IMDB 7.7 Abigail Fraeman, Angela Bassett, Ashitey Trebi-Ollennu, Doug Ellison, Jennifer Trosper, Kobie Boykins, Rob Manning, Steve Squyres, Vandi Verma"
     }
   ],
   "Bollywood Movies": [
