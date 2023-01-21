@@ -716,6 +716,13 @@
       "thumb": "https://channelmyanmar.org/wp-content/uploads/2023/01/MV5BMDk3OTY4M2MtNjZhOC00N2I2LWJmODAtYjg4NmVlODY4OGQ4XkEyXkFqcGdeQXVyMTM1Mjk5NDUy._V1_.jpg",
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/INDIA/Aaja.Mexico.Chaliye.2022.mp4",
       "genre": "Bollywood Drama, Thriller",
+      "plot": "IMDB: 5.5 Dolly Ahluwalia, Prachee Shah, Rajesh Tailang, Rakesh Bedi, Rakul Preet Singh, Riva Arora, Satish Kaushik, Sumeet Vyas"
+    },
+	{
+      "name": "Chhatriwali (2023)",
+      "thumb": "https://channelmyanmar.org/wp-content/uploads/2023/01/MV5BMjBhMjFhYmMtYjRlZC00OTU4LWFlNjUtZWFjZDViOGNlOTcxXkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2023/INDIA/Chhatriwali.2023.mp4",
+      "genre": "Bollywood Comedy, Drama",
       "plot": "IMDB: 6.8 Aman Kaur Dheer, Ammy Virk, Baljinder Kaur, Deedar Gill, Honey Mattu, Mintu Kapa, Nasir Chinyoti, Sophie Doon, Sukhwinder Chahal, Yasaman Mohsani, Yashika Sharma, Zafri Khan"
     }
   ],
@@ -1015,6 +1022,13 @@
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/KOREA/Men.of.Plastic.2022.mp4",
       "genre": "Korea Comedy, Drama",
       "plot": "IMDB: 8.0 Jung Kyung-ho, Ma Dong-seok, Na-ra Oh"
+    },
+	{
+      "name": "JUNG E (2023)",
+      "thumb": "https://image.tmdb.org/t/p/w185/2LAtcGxhgfPmaKL7dItQ1n9TepH.jpg",
+      "video": "https://skytv.darkshadowservices.workers.dev/2023/KOREA/JUNG_E.2023.mp4",
+      "genre": "Korea Action, Adventure, Drama",
+      "plot": "Kim Hyun-joo, Ryu Kyung-soo"
     }
   ],
   "Japan Movies": [
