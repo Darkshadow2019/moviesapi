@@ -624,13 +624,6 @@
       "video": "https://eerht.artdesigncdn.net/_v10/2b7c34787f0aa69277e62ba4713bd65f54d01641163f56acf054a25860d6810ca99fd241e1d9458ae9d9e460797839aed97cf3de04264fdd8f0665b6ab5371b6160196354f6b41d22347a71762dbeaccf0e9c53c59c6b35f9d0141dafb34a57df096866ff12b43db0e6ffde6334b65213d99eb95a0cd7fd1744f60165975c662/720/index.m3u8",
       "genre": "English Adventure, Science Fiction, Action",
       "plot": "A ‘90s globetrotting adventure that introduces the Maximals, Predacons, and Terrorcons to the existing battle on earth between Autobots and Decepticons."
-    },
-    {
-      "name": "Legion of Super-Heroes (2023)",
-      "thumb": "http://mycinema.asia/image//20230210/avatar_14005.jpg",
-      "video": "http://media1.mycinema.asia/media/films/Legion.of.Super.Heroes.2023.360p/Legion.of.Super.Heroes.2023.360p.m3u8",
-      "genre": "English Action",
-      "plot": "IMDB 8.0 Meg Donnelly, Harry Shum Jr, Darren Criss."
     }
   ],
   "Bollywood Movies": [
@@ -1329,6 +1322,13 @@
       "video": "https://skytv.darkshadowservices.workers.dev/2022-Movies/Cartoon/Puss.in.Boots.The.Last.Wish.2022.mp4",
       "genre": "Cartoon Adventure, Animation, Comedy",
       "plot": "IMDB: 7.8"
+    },
+    {
+      "name": "Legion of Super-Heroes (2023)",
+      "thumb": "http://mycinema.asia/image//20230210/avatar_14005.jpg",
+      "video": "http://media1.mycinema.asia/media/films/Legion.of.Super.Heroes.2023.360p/Legion.of.Super.Heroes.2023.360p.m3u8",
+      "genre": "English Action",
+      "plot": "IMDB 8.0 Meg Donnelly, Harry Shum Jr, Darren Criss."
     }
   ],
   "Other Movies": [
