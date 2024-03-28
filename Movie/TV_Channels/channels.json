@@ -1,6 +1,13 @@
 {
   "TV Channels": [
     {
+      "name": "Channel 7",
+      "thumb": "https://upload.wikimedia.org/wikipedia/en/e/e8/Channel7_logo.png",
+      "video": "https://pp-live.b-cdn.net/bcdn_token=pExgvk4DF3nrkKMvxrOnuGOemEaqG5LSFcs52Vb4GDQ&expires=1711638864&token_path=%2FLiveApp%2F/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8",
+      "plot": "Channel 7",
+      "genre": "TV Channels"
+    },
+    {
       "name": "Mahar",
       "thumb": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/05/e8/e1/05e8e1f6-69fe-766a-9f09-9dd4ac32ed70/source/512x512bb.jpg",
       "video": "https://tv.mahar.live/mahar/website.stream/playlist.m3u8",
