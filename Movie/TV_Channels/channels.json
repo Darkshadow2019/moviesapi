@@ -1,26 +1,6 @@
 {
   "TV Channels": [
     {
-      "name": "Channel 7",
-      "thumb": "https://upload.wikimedia.org/wikipedia/en/e/e8/Channel7_logo.png",
-      "video": "https://pp-live.b-cdn.net/bcdn_token=dwr82-U1-wLaze0-Z9blEPqmirNZODex2oGg4VULrC4&expires=1711635796&token_path=%2FLiveApp%2F/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8",
-      "plot": "Channel 7",
-      "genre": "TV Channels"
-    },
-    {
-      "name": "MRTV-4",
-      "thumb": "https://pp-live.b-cdn.net/bcdn_token=wdk98o_eqpFasQcAK0wCJEi7UukdibmMhVeQyGpX5QI&expires=1711634883&token_path=%2FLiveApp%2F/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8",
-      "plot": "MRTV4 Channel",
-      "genre": "TV Channels"
-    },
-    {
-      "name": "MaharBawdi",
-      "thumb": "https://i.ytimg.com/vi/CLb-cUYLjXo/sddefault_live.jpg",
-      "video": "https://pp-live.b-cdn.net/bcdn_token=2wm9GgHV92Vh5MyXvm4FPkjZE_cT-TD76YpQE21EfiM&expires=1711636175&token_path=%2FLiveApp%2F/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8",
-      "plot": "MaharBawdi Channel",
-      "genre": "TV Channels"
-    },
-    {
       "name": "Mahar",
       "thumb": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/05/e8/e1/05e8e1f6-69fe-766a-9f09-9dd4ac32ed70/source/512x512bb.jpg",
       "video": "https://tv.mahar.live/mahar/website.stream/playlist.m3u8",
